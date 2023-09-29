@@ -167,7 +167,6 @@ blockquote * {
         display: flex;
         align-items: center;
         justify-content: space-between;
-        gap: 25px;
         padding: 0 20px;
     }
 
