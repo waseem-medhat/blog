@@ -2,6 +2,7 @@
 title = 'Functional Programming'
 date = 2023-08-16T00:00:00-00:00
 draft = false
+series = 'Clojure vs JavaScript'
 +++
 
 ![cover](https://cdn.hashnode.com/res/hashnode/image/upload/v1691853775339/3b697a52-9efc-400d-8487-71562a9b588f.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)

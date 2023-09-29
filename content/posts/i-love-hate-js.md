@@ -2,6 +2,7 @@
 title = 'I Love/Hate JavaScript'
 date = 2023-07-28T00:00:00-00:00
 draft = false
+series = 'Overthinking Development'
 +++
 
 ![cover](https://cdn.hashnode.com/res/hashnode/image/upload/v1690546152695/cfb3a1f2-c1eb-472b-b246-ee7d89dc5d24.avif?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)

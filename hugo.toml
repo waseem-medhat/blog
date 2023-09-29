@@ -1,4 +1,9 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'wipdev blog'
 theme = 'wipdev'
+
+[taxonomies]
+  category = 'categories'
+  series = 'series'
+  tag = 'tags'

@@ -2,6 +2,7 @@
 title = 'Clojure as a Lisp'
 date = 2023-07-29T08:00:00-00:00
 draft = false
+series = 'Clojure vs JavaScript'
 +++
 
 ![cover](https://cdn.hashnode.com/res/hashnode/image/upload/v1690643086067/a3fad9b4-6b54-4cff-be80-56cb05076e14.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)

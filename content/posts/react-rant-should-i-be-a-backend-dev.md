@@ -2,6 +2,7 @@
 title = 'React Rant (+ Should I Be a Backend Dev?)'
 date = 2023-09-17T08:00:00-00:00
 draft = false
+series = 'Overthinking Development'
 +++
 
 ![cover](https://i.imgur.com/QAk0myx.png)

@@ -8,9 +8,14 @@ pageRef = '/'
 weight = 10
 
 [[menus.main]]
-name = 'Posts'
+name = 'All Posts'
 pageRef = '/posts'
 weight = 20
+
+[[menus.main]]
+name = 'Series'
+pageRef = '/series'
+weight = 25
 
 [[menus.main]]
 name = 'Tags'

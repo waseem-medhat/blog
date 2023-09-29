@@ -2,6 +2,7 @@
 title = '100 Days of Code: 11-20'
 date = 2023-08-11T08:00:00-00:00
 draft = false
+series = '100 Days of Code'
 +++
 
 ![cover](https://cdn.hashnode.com/res/hashnode/image/upload/v1691619966187/ebabc04c-4154-47e5-93a0-765785aa92c9.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
