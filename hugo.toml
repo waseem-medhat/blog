@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'wipdev blog'
+title = 'wipdevBlog'
 theme = 'wipdev'
 
 [taxonomies]

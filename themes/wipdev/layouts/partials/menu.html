@@ -12,7 +12,7 @@ Renders a menu for the given menu ID.
 
 {{- with index site.Menus $menuID }}
 <aside>
-  <pre id="logo"><code>(wipdev-blog)</code></pre>
+  <pre id="logo"><code>wipdevBlog</code></pre>
   <nav>
     <ul>
       {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
