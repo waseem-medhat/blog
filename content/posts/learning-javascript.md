@@ -1,4 +1,11 @@
-# Learning Javascript
+---
+title: "Learning Javascript"
+date: 2020-11-15T13:16:48+02:00
+Description: "Sharning my way and resources for learning JavaScript"
+Tags: ["JavaScript"]
+Categories: ["Blog"]
+DisableComments: false
+---
 
 Because I found working with D3.js quite enjoyable, I decided to dive deeper
 into the underlying technology: JavaScript. The whole web ecosystem is huge.
@@ -13,7 +20,7 @@ attention that is totally separate from learning frameworks and libraries.
 So, without further ado, let me describe how I am currently learning
 JavaScript, and share some resources along the way.
 
-## Building stuff
+# Building stuff
 
 It isn't a new discovery, but learning by doing is essential in programming.
 I have been building visualizations for almost a month using JavaScript,
@@ -34,7 +41,7 @@ up writing chunks of code that you don't fully understand. This might be okay
 if it works for the current use case, but it would cause problems if you make
 changes in the code that lead to unexpected changes in the output.
 
-## Solving algorithms
+# Solving algorithms
 
 A different type of learning by doing is algorithms exercises, which I am
 doing on [HackerRank](https://www.hackerrank.com/). Instead of more or less
@@ -49,7 +56,7 @@ which makes practicing the language easier. As much as I love them, they
 still wouldn't be able to replace actual projects which have business logic
 and connects more than one low-level problems together.
 
-## YouTube tutorials
+# YouTube tutorials
 
 I guess this could be the most common way of learning among programmers and
 especially web developers. Currently, I am watching the playlist
@@ -64,7 +71,7 @@ however, becomes a problem when there is no practice. If you learned
 something quickly, you will forget it just as quickly. So, YouTube tutorials
 are rarely useful by themselves.
 
-## Reading
+# Reading
 
 The book of choice for my reading is
 [You Don't Know Javascript](https://github.com/getify/You-Dont-Know-JS).
@@ -82,7 +89,7 @@ are constantly updated, in which case you either have to learn on an older
 version of the technology or try to work along with the latest version
 until something blows up.
 
-* * *
+---
 
 I believe that combining multiple resources is the best way to learn a skill,
 and that's what I am doing here with JavaScript. If you want to learn it as

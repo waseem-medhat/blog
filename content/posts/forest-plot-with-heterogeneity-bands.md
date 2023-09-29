@@ -1,4 +1,11 @@
-# Forest Plot With Heterogeneity Bands
+---
+title: 'Forest Plot With Heterogeneity Bands'
+date: 2020-12-10T17:12:28+02:00
+Description: 'Showcasing a visualization project'
+Tags: ['Data visualization', 'JavaScript', 'D3', 'R', 'Shiny']
+Categories: ['Projects']
+DisableComments: false
+---
 
 This visualization project is a custom version of a forest plot with
 additional bands that better visualize heterogeneity between studies in a
@@ -9,9 +16,9 @@ wrapped in a Shiny app.
 hosted by PSI and reviewed by statisticians in the organization. Find more
 [here](https://vis-sig.github.io/blog/posts/2020-12-03-wonderful-wednesdays-december-2020/).
 
-## Plot description
+# Plot description
 
-![forest plot](https://i.imgur.com/Q7dmUsA.png)
+![forest plot](/post/forest-plot-with-heterogeneity-bands_files/forest_plot_with_bands.png)
 
 A lot of the plot components are directly comparable to the typical [forest
 plot](https://en.wikipedia.org/wiki/Forest_plot), which is very popular in
@@ -38,9 +45,9 @@ overlayed over each other so that more overlapping produces darker areas.
 a subtitle with the interventions and the outcome, respectively. Another
 label is also added to show which direction represents the "positive" effect.
 
-## App description
+# App description
 
-![forest plot shiny](https://i.imgur.com/OgcgIAX.png)
+![forest plot shiny](/post/forest-plot-with-heterogeneity-bands_files/forest_plot_with_bands_shiny.png)
 
 As a proof of concept for a viable product, I wrapped the plot in a Shiny app
 which provides additional interactive features.
@@ -49,8 +56,8 @@ which provides additional interactive features.
 - Control over the plot dimensions.
 - Help button that shows a guide for interpretation.
 
-## Links
+# Links
 
-- Live version of the Shiny app: [https://waseem-medhat.shinyapps.io/forest\_plot\_with\_bands/](https://waseem-medhat.shinyapps.io/forest_plot_with_bands/)
-- GitHub: [https://github.com/waseem-medhat/forest\_plot\_with\_bands](https://github.com/waseem-medhat/forest_plot_with_bands)
-- Wonderful Wednesdays December submissions: [https://vis-sig.github.io/blog/posts/2020-12-03-wonderful-wednesdays-december-2020/](https://vis-sig.github.io/blog/posts/2020-12-03-wonderful-wednesdays-december-2020/)
+- Live version of the Shiny app: https://waseem-medhat.shinyapps.io/forest_plot_with_bands/
+- GitHub: https://github.com/waseem-medhat/forest_plot_with_bands
+- Wonderful Wednesdays December submissions: https://vis-sig.github.io/blog/posts/2020-12-03-wonderful-wednesdays-december-2020/

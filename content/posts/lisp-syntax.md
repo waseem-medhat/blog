@@ -1,15 +1,22 @@
-# The Weird and Interesting Lisp Syntax
+---
+title: "The Weird and Interesting Lisp Syntax"
+date: 2020-09-27T12:05:48+02:00
+Description: "Talking about the Lisp syntax and its advantages."
+Tags: ["Coding"]
+Categories: ["Blog"]
+ffDisableComments: false
+---
 
 As I go through the course
 [Programming Languages Part B](https://www.coursera.org/learn/programming-languages-part-b/),
 which teaches programming concepts on the language Racket, let me reflect on
 the strange syntax of Lisp (on which Racket is based).
 
-![lisp-cycle](https://imgs.xkcd.com/comics/lisp_cycles.png)
+![lisp-cycle](/post/lisp-syntax_files/lisp_cycles.png)
 
-(Image source: [https://xkcd.com/297/](https://xkcd.com/297/))
+(Image source: https://xkcd.com/297/)
 
-## Lisp? Racket?
+# Lisp? Racket?
 
 I see that in a world full of Python and JavaScript, Racket and other Lisp
 "dialects" are kind of obscure nowadays.
@@ -75,7 +82,7 @@ an anonymous function and a list of strings. The anonymous functions appends
 a suffix at the end of each string.
 
 **Note**: If you don't know about `map` and anonymous functions, check out
-[my `map` tutorial](/posts/funprog-map/) in which I explain these concepts and
+[my `map` tutorial](/post/funprog-map/) in which I explain these concepts and
 their applications in R.
 
 ```racket
@@ -83,14 +90,14 @@ their applications in R.
   (map (lambda (x) (string-append x suffix)) xs))
 ```
 
-## Why the syntax is interesting
+# Why the syntax is interesting
 
 Having parentheses for everything makes the syntax initially confusing. There
 are no (infix) operators or any other forms of special syntax that make
 pieces of code more or less distinguishable. But there is actually a couple
 of benefits to that syntax.
 
-### It is minimal
+## It is minimal
 
 I am going to paraphrase the course instructor, Dan Grossman, here: the
 syntax is so simple it can fit on one slide. Instead of having special syntax
@@ -98,7 +105,7 @@ for every construct (e.g. variable/function definitions, if/else statements,
 function calls, etc.), Racket has most of its constructs as functions or
 special forms that have almost identical syntax.
 
-### It is unambiguous
+## It is unambiguous
 
 In the arithmetic code written earlier, you need to remember how the
 operations are ordered to code it correctly. A lot of syntax rules in
@@ -117,7 +124,7 @@ In Racket, however, the simple syntax leads to having only one way to do
 things: every operator/function is prefix and you can nest them as deep as
 you want because everything is already enclosed in parentheses.
 
-* * *
+---
 
 Remember that opinions towards syntax are just opinions: they are subjective.
 I do like that syntax and enjoy programming with it in the course. I am not
