@@ -134,6 +134,18 @@ blockquote * {
     font-size: 1.1rem;
 }
 
+.terms {
+    margin-top: 45px;
+}
+
+.terms ul {
+    line-height: 1.5rem;
+    list-style-type: none;
+    font-size: medium;
+    display: flex;
+    gap: 15px;
+}
+
 @media (max-width: 1000px) {
     body {
         padding: 125px 25px;
@@ -168,10 +180,5 @@ blockquote * {
         align-items: center;
         justify-content: space-between;
         padding: 0 20px;
-    }
-
-    p, ul, ol {
-        font-size: xx-large;
-        line-height: 3rem;
     }
 }
