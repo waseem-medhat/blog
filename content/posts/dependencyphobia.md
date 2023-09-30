@@ -2,7 +2,7 @@
 title = 'Dependencyphobia'
 date = 2023-08-04T00:00:00-00:00
 draft = false
-series = 'Overthinking Development'
+series = ['Overthinking Development']
 +++
 
 ![cover](https://cdn.hashnode.com/res/hashnode/image/upload/v1691069641728/e453eb12-ef56-4e24-b589-ba005f9f7c04.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)

@@ -2,7 +2,7 @@
 title = '100 Days of Code: 1-10'
 date = 2023-07-31T00:00:00-00:00
 draft = false
-series = '100 Days of Code'
+series = ['100 Days of Code']
 +++
 
 ![cover](https://imgur.com/LxZkelq.png)

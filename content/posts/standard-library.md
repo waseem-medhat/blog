@@ -2,7 +2,7 @@
 title = 'Standard Library'
 date = 2023-09-07T00:00:00-00:00
 draft = false
-series = 'Clojure vs JavaScript'
+series = ['Clojure vs JavaScript']
 +++
 
 ![cover](https://i.imgur.com/nhBxOOc.png)

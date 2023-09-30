@@ -3,7 +3,7 @@ title = 'Developer Philosophies'
 date = 2023-09-29T19:37:57+03:00
 draft = false
 tags = ['Clojure', 'JavaScript']
-series = 'Clojure vs JavaScript'
+series = ['Clojure vs JavaScript']
 +++
 
 ![cover](https://i.imgur.com/kjJzYKk.png)
