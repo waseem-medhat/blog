@@ -7,7 +7,7 @@ tags = ['Clojure', 'Go']
 images = ['gopher.png']
 +++
 
-![cover](gopher.png)
+![cover](/posts/100-days-of-code-61-70/gopher.png)
 
 ## Summary
 
