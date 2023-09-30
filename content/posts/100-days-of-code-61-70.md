@@ -1,8 +1,9 @@
 +++
 title = '100 Days of Code: 61-70'
 date = 2023-09-30T13:25:47+03:00
-draft = true
+draft = false
 series = '100 Days of Code'
+tags = ['Clojure', 'Go']
 +++
 
 ![cover](https://i.imgur.com/n8wOt9V.png)
