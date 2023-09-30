@@ -4,6 +4,7 @@ date = 2023-09-30T13:25:47+03:00
 draft = false
 series = '100 Days of Code'
 tags = ['Clojure', 'Go']
+images = ['gopher.png']
 +++
 
 ![cover](https://i.imgur.com/n8wOt9V.png)
