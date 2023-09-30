@@ -7,7 +7,7 @@ tags = ['Clojure', 'Go']
 images = ['gopher.png']
 +++
 
-![cover](https://i.imgur.com/n8wOt9V.png)
+![cover](gopher.png)
 
 ## Summary
 
