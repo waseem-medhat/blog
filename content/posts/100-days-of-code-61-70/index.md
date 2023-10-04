@@ -3,7 +3,7 @@ title = '100 Days of Code: 61-70'
 date = 2023-09-30T13:25:47+03:00
 draft = false
 series = ['100 Days of Code']
-tags = ['Clojure', 'Go']
+tags = ['Learning', 'Clojure', 'Functional Programming', 'Go']
 images = ['/posts/100-days-of-code-61-70/gopher.png']
 +++
 

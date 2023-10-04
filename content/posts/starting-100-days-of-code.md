@@ -3,6 +3,7 @@ title = 'Starting 100 Days of Code'
 date = 2023-07-22T00:00:00-00:00
 draft = false
 series = ['100 Days of Code']
+tags = ['Learning', 'Clojure', 'Functional Programming']
 +++
 
 ![cover](https://cdn.hashnode.com/res/hashnode/image/upload/v1689979259371/f22af876-e806-47af-abdb-a00babb23468.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
