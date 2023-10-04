@@ -2,6 +2,7 @@
 title = 'Jack of All Trades'
 date = 2023-08-31T00:00:00-00:00
 draft = false
+series = ['Overthinking Development']
 +++
 
 ![cover](https://i.imgur.com/PyY5F7f.png)
