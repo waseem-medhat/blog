@@ -9,7 +9,7 @@ weight = 10
 
 [[menus.main]]
 name = 'Projects'
-pageRef = '/categories/project'
+pageRef = '/categories/projects'
 weight = 19
 
 [[menus.main]]
