@@ -8,8 +8,13 @@ pageRef = '/'
 weight = 10
 
 [[menus.main]]
-name = 'Posts'
-pageRef = '/posts'
+name = 'Projects'
+pageRef = '/categories/project'
+weight = 19
+
+[[menus.main]]
+name = 'Blog'
+pageRef = '/categories/blog'
 weight = 20
 
 [[menus.main]]
@@ -21,11 +26,6 @@ weight = 25
 name = 'Tags'
 pageRef = '/tags'
 weight = 30
-
-[[menus.main]]
-name = 'GitHub'
-url = 'https://github.com/wipdev-tech'
-weight = 40
 
 [module]
   [module.hugoVersion]

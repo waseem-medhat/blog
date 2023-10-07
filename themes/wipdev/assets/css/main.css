@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@300;400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;600;700&display=swap');
 
 * {
     margin: 0;
@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: 'Noto Serif', sans-serif;
+    font-family: 'Lato', sans-serif;
     color: #223;
     padding: 100px 150px;
 }
@@ -22,6 +22,29 @@ aside {
 
 aside ul {
     list-style-type: none;
+}
+
+aside ul li {
+    margin-bottom: 7px;
+}
+
+aside .links {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    gap: 10px
+}
+
+aside .links img {
+    height: 40px;
+}
+
+.bmc-container {
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    gap: 10px;
 }
 
 code, pre {
@@ -153,6 +176,7 @@ blockquote * {
 
     main {
         width: 100%;
+        margin-top: 25px;
     }
 
     aside {
@@ -177,8 +201,14 @@ blockquote * {
     aside ul {
         font-size: 1.2rem;
         display: flex;
+        flex-wrap: wrap;
         align-items: center;
-        justify-content: space-between;
+        justify-content: center;
+        gap: 0 35px;
         padding: 0 20px;
+    }
+
+    .bmc-container {
+        flex-direction: column;
     }
 }
