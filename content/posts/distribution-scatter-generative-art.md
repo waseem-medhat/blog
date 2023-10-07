@@ -12,7 +12,7 @@ distributions to arrange transparent shapes that together form imperfect
 patterns.
 
 ![distribution
-scatter](/post/distribution-scatter-generative-art_files/distribution_scatter.png)
+scatter](https://i.imgur.com/Gb6gJzz.png)
 
 There are live versions of these pieces in which the colors change randomly.
 Visit these links to see them:

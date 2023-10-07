@@ -27,7 +27,7 @@ both as GitHub code and live demo from the links below:
 
 # Iteration 1
 
-![shiny t-test](/post/shiny-t-test_files/shiny-t-test.gif)
+![shiny t-test](https://i.imgur.com/H8wXloD.gif)
 
 ## Feature overview
 
@@ -79,7 +79,7 @@ expects long data and the paired t-test expects wide data.
 This one builds further upon the previously written code. It addresses some
 of the points mentioned earlier and adds some more.
 
-![better shiny t-test](/post/shiny-t-test_files/better-shiny-t-test.gif)
+![better shiny t-test](https://i.imgur.com/ghIrutv.gif)
 
 ## Added features
 

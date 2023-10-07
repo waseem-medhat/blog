@@ -18,7 +18,7 @@ hosted by PSI and reviewed by statisticians in the organization. Find more
 
 # Plot description
 
-![forest plot](/post/forest-plot-with-heterogeneity-bands_files/forest_plot_with_bands.png)
+![forest plot](https://i.imgur.com/Q7dmUsA.png)
 
 A lot of the plot components are directly comparable to the typical [forest
 plot](https://en.wikipedia.org/wiki/Forest_plot), which is very popular in
@@ -47,7 +47,7 @@ label is also added to show which direction represents the "positive" effect.
 
 # App description
 
-![forest plot shiny](/post/forest-plot-with-heterogeneity-bands_files/forest_plot_with_bands_shiny.png)
+![forest plot shiny](https://i.imgur.com/OgcgIAX.png)
 
 As a proof of concept for a viable product, I wrapped the plot in a Shiny app
 which provides additional interactive features.

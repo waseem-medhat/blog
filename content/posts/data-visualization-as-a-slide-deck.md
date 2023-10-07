@@ -17,7 +17,7 @@ practice (and demonstrate) my skills with these technologies.
 
 Here is an animated GIF showing all the slides.
 
-![vis_slides](/post/data-visualization-as-a-slide-deck_files/vis_slides.gif)
+![vis_slides](https://i.imgur.com/wp4Nmld.gif)
 
 # Sequence
 
@@ -29,7 +29,7 @@ the story once piece at a time.
 
 # Using color to shift focus
 
-![color focus](/post/data-visualization-as-a-slide-deck_files/color_focus.png)
+![color focus](https://i.imgur.com/Z4IMqSu.png)
 
 One of the most important differences between slides is the use of color to
 emphasize pieces of visualization and tune others out. So that each slide
@@ -40,7 +40,7 @@ to make them less demanding of the viewer's attention.
 
 # Explanatory annotations
 
-![explanatory annotations](/post/data-visualization-as-a-slide-deck_files/explanatory_annotations.png)
+![explanatory annotations](https://i.imgur.com/Ura9oZF.png)
 
 I want to emphasize the distinction between _explanatory_ and _exploratory_
 visualizations. Explanatory means that the visualization communicates a
