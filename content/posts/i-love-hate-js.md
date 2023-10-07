@@ -2,6 +2,7 @@
 title = 'I Love/Hate JavaScript'
 date = 2023-07-28T00:00:00-00:00
 draft = false
+categories = ['Blog']
 series = ['Overthinking Development']
 +++
 

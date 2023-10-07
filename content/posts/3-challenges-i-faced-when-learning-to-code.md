@@ -2,6 +2,7 @@
 title = '3 Challenges I Faced When Learning to Code'
 date = 2023-07-26T00:00:00-00:00
 draft = false
+categories = ['Blog']
 +++
 
 ![cover](https://cdn.hashnode.com/res/hashnode/image/upload/v1690299234126/ad4df73c-9926-4bb7-8778-e812e4cf3e70.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)

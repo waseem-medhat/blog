@@ -2,6 +2,7 @@
 title = 'Programmers Are Rational — or Are They?'
 date = 2023-08-10T00:00:00-00:00
 draft = false
+categories = ['Blog']
 +++
 
 ![cover](https://i.imgur.com/dcigENw.jpg)

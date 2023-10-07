@@ -2,6 +2,7 @@
 title = 'Functional Programming'
 date = 2023-08-16T00:00:00-00:00
 draft = false
+categories = ['Blog']
 series = ['Clojure vs JavaScript']
 +++
 

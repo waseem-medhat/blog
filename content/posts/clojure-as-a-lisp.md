@@ -2,6 +2,7 @@
 title = 'Clojure as a Lisp'
 date = 2023-07-29T08:00:00-00:00
 draft = false
+categories = ['Blog']
 series = ['Clojure vs JavaScript']
 +++
 

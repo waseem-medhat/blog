@@ -2,6 +2,7 @@
 title = 'Developer Philosophies'
 date = 2023-09-29T19:37:57+03:00
 draft = false
+categories = ['Blog']
 tags = ['Clojure', 'JavaScript']
 series = ['Clojure vs JavaScript']
 +++

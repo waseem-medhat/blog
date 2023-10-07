@@ -2,6 +2,7 @@
 title = 'Building for Developers'
 date = 2023-10-07T19:45:25+03:00
 draft = false
+categories = ['Blog']
 +++
 
 The idea of this article was inspired by a Backend Banter podcast episode with The Primeagen about CLI tools. I've been thinking about building a software product these days, but I didn't have a solid plan in mind to go about it. But this idea of building for developers may have narrowed down the possibilities for me.

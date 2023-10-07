@@ -2,6 +2,7 @@
 title = 'Starting 100 Days of Code'
 date = 2023-07-22T00:00:00-00:00
 draft = false
+categories = ['Blog']
 series = ['100 Days of Code']
 tags = ['Learning', 'Clojure', 'Functional Programming']
 +++

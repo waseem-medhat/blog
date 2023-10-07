@@ -2,6 +2,7 @@
 title = 'What Got Me Here...'
 date = 2023-07-21T08:00:00-00:00
 draft = false
+categories = ['Blog']
 +++
 
 ![cover](https://cdn.hashnode.com/res/hashnode/image/upload/v1689959130745/6590f4f1-0d0f-4699-824a-086055344b7a.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)

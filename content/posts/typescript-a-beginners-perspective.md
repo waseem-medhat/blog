@@ -2,6 +2,7 @@
 title = "TypeScript: a Beginner's Perspective"
 date = 2023-08-25T00:00:00-00:00
 draft = false
+categories = ['Blog']
 +++
 
 ![cover](https://cdn.hashnode.com/res/hashnode/image/upload/v1692954785301/fd5257fb-435a-4561-b1d1-a614b2530635.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)

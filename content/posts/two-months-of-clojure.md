@@ -2,6 +2,7 @@
 title = 'Two Months of Clojure'
 date = 2023-09-19T00:00:00-00:00
 draft = false
+categories = ['Blog']
 +++
 
 ![cover](https://i.imgur.com/YghZkHs.png)

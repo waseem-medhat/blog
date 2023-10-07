@@ -2,6 +2,7 @@
 title = 'Standard Library'
 date = 2023-09-07T00:00:00-00:00
 draft = false
+categories = ['Blog']
 series = ['Clojure vs JavaScript']
 +++
 

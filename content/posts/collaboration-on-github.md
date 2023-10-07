@@ -2,6 +2,7 @@
 title = 'Collaboration on GitHub: a Practical Intro'
 date = 2023-08-19T00:00:00-00:00
 draft = false
+categories = ['Blog']
 +++
 
 ![cover](https://i.imgur.com/OBZtHgb.png)

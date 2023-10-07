@@ -2,6 +2,7 @@
 title = 'Why I Like Functional Programming'
 date = 2023-09-10T00:00:00-00:00
 draft = false
+categories = ['Blog']
 series = ['Overthinking Development']
 +++
 
