@@ -5,9 +5,8 @@ draft = false
 categories = ['Blog']
 tags = ['Clojure', 'JavaScript']
 series = ['Clojure vs JavaScript']
+images = ['/img/js-fw.png']
 +++
-
-![cover](https://i.imgur.com/kjJzYKk.png)
 
 All previous articles in this series discussed very basic language differences between Clojure and JavaScript based on my learning so far. I will switch to a different set of topics in this article, discussing some philosophies adopted by each developer community. Although each developer is always free to form their own opinions, what I discuss here is my observations of what is commonly embraced or encouraged by most developers in each community.
 

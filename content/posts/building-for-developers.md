@@ -1,7 +1,7 @@
 +++
 title = 'Building for Developers'
 date = 2023-10-07T19:45:25+03:00
-draft = false
+draft = true
 categories = ['Blog']
 +++
 

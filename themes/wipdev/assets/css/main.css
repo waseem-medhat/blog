@@ -169,6 +169,16 @@ blockquote * {
     gap: 15px;
 }
 
+.home-post-container {
+    display: flex;
+    gap: 0 20px;
+}
+
+.home-post h3 {
+    margin: 15px 0;
+    text-align: center;
+}
+
 @media (max-width: 1000px) {
     body {
         padding: 125px 25px;
@@ -221,6 +231,10 @@ blockquote * {
     }
 
     .bmc-container {
+        flex-direction: column;
+    }
+
+    .home-post-container {
         flex-direction: column;
     }
 }

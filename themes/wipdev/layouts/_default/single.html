@@ -1,15 +1,19 @@
 {{ define "main" }}
-  {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-  {{ $dateHuman := .Date | time.Format ":date_long" }}
+    {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+    {{ $dateHuman := .Date | time.Format ":date_long" }}
 
-  <h1 class="post-title">
-  {{ .Title }}
-  <br>
-  <small>
-    <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-  </small>
-  </h1>
+    <h1 class="post-title">
+        {{ .Title }}
+        <br>
+        <small>
+            <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+        </small>
+    </h1>
 
-  {{ .Content }}
-  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+    {{ with index .Params.images 0 }}
+        <img src="{{ . }}" alt="post-cover">
+    {{ end }}
+
+    {{ .Content }}
+    {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 {{ end }}
