@@ -31,7 +31,7 @@ JavaScript, and other times it has been a different kind of experiment with
 software like changing my OS from Windows to Linux or using Vim or Emacs
 instead of RStudio and VSCode.
 
-That kind of hopping around tends to exciting in the first stages of playing
+That kind of hopping around tends to be exciting in the first stages of playing
 with a new piece of software. My curiosity is being sated that way after all.
 However, it tends to cause some fatigue - and possibly burnout - after some
 time, especially when I start learning too many new things in a short time or
@@ -94,7 +94,7 @@ new syntax to do things. It's like the rug will always be pulled from under me.
 Not the greatest experience ever.
 
 So, that's why right now I'm leaning towards settling for the current JS skills
-I have and check out the back-end as it seems to be a much more stable, much
+I have and checking out the back-end as it seems to be a much more stable, much
 quieter place to live in. I don't think I'll ever stop interacting with
 JavaScript. If I keep working solo, I will sure have to develop front-ends.
 I'll have to wait and see about that.
