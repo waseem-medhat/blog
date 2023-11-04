@@ -4,14 +4,16 @@
 
     <h1 class="post-title">
         {{ .Title }}
-        <br>
-        <small>
-            <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-        </small>
     </h1>
+    <h2 class="post-subtitle">
+        <small>{{ .Params.subtitle }}</small>
+    </h2>
+    <p class="post-date">
+        <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+    </p>
 
     {{ with index .Params.images 0 }}
-        <img src="{{ . }}" alt="post-cover">
+        <img src="{{ . }}" class="post-cover" alt="post-cover">
     {{ end }}
 
     {{ .Content }}

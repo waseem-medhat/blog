@@ -90,12 +90,20 @@ h1 {
 }
 
 .post-title {
-    line-height: 3.25rem;
+    line-height: 3rem;
+    margin-bottom: 0;
 }
 
-.post-title small {
+.post-subtitle {
+    font-weight: 500;
+    font-size: 2rem;
+    margin: 1rem 0;
+}
+
+.post-date {
+    margin: 1rem 0;
     font-weight: 400;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
 }
 
 h2 {
@@ -192,6 +200,10 @@ blockquote * {
 .home-post h3 {
     margin: 15px 0;
     text-align: center;
+}
+
+.post-cover {
+    margin-bottom: 1rem;
 }
 
 @media (max-width: 1000px) {
