@@ -44,7 +44,7 @@ This is exactly what got me to flee from the front-end ecosystem. It is now full
 
 ## Building CLI Tools
 
-This is not only the episode's title but also where a lot of goodies have come out from both Lane and Prime. Also, this is gonna be the bulk of the article, so I'll split it into subsections.
+This is not only the topic of episode's title but also where a lot of goodies have come out from both Lane and Prime. Also, this is gonna be the bulk of the article, so I'll split it into subsections.
 
 ### CLIs as Portfolio Projects
 
