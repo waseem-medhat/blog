@@ -38,7 +38,7 @@ Let me go on a little rant here... I see a lot of people who get into a victim's
 
 ## Hot Take: PHP &gt; React
 
-Prime said that he'd built a startup using a PHP app. Then, he went on to say that he wouldn't have been able to build it with React because older tech was easier. He and Lane got to expand more on the topic of why tech is getting harder, which mostly drills down to having a larger mental model and more moving parts to deal with - versus getting a VPS and deploying a simple PHP app with a database.
+Prime said that he'd built a startup using a PHP app. Then, he went on to say that he wouldn't have been able to build it with React because older tech was easier. He and Lane got to expand more on the topic of why tech is getting harder, which mostly boils down to having a larger mental model and more moving parts to deal with - versus getting a VPS and deploying a simple PHP app with a database.
 
 This is exactly what got me to flee from the front-end ecosystem. It is now full of complicated JavaScript frameworks, and all of them are about rendering UI... except that front-end frameworks are now leaking into the server side. While back-end development still has its own shenanigans, it's still a much simpler and more stable environment to learn and grow in than JS (that's at least the way I see it). I'm really happy doing Go for the time being, and it's the only language I got to actual project completion with. For me, that's something.
 
@@ -64,7 +64,7 @@ Prime says he's a fan of the Unix philosophy for the most part, and so am I. I w
 
 ### Dogfooding
 
-Lane mentions that he likes building for developers because you can "dogfood your own thing." This means that you would write a tool to solve a problem you have yourself. Again, I did this with Gopen, and it felt great to solve a small problem I had. (I hope I'm shoving Gopen in the article too many times, but it turned out to be very relevant for this topic.)
+Lane mentions that he likes building for developers because you can "dogfood your own thing." This means that you would write a tool to solve a problem you have yourself. Again, I did this with Gopen, and it felt great to solve a small problem I had. (I hope I'm not shoving Gopen in the article too many times, but it turned out to be very relevant for this topic.)
 
 ### Building a Good "Product"
 
