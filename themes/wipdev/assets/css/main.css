@@ -262,6 +262,7 @@ blockquote * {
 
     aside .links img {
         height: 30px;
+        max-width: 30px
     }
 
     .bmc-container {
