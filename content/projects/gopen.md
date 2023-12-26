@@ -14,6 +14,10 @@ list of aliases for your local development projects instead of "polluting" your
 system-level configs (e.g., `.bashrc`). Then, Gopen command will `cd` into that
 folder and open your editor of choice.
 
+I used it as a dogfood solution to the relatively straightforward problem of
+having to navigate to a project folder and open Neovim every time I open a
+terminal. Plus, it would serve as good practice with Go.
+
 ## Installation and Usage
 
 [Check the project's GitHub repo](https://github.com/wipdev-tech/gopen) for the
@@ -33,10 +37,15 @@ I figured a simple CLI with a size of 2 MBs isn't too favorable. So, I used
 Even with stripping, TinyGo does make a significant difference in the size of
 the compiled binaries.
 
+## Collaboration
+
+I shared the project in Discord servers to ask for feedback, and thankfully, it
+got picked up by other users. One of them even gave me excellent feedback and
+then collaborated with me in the project.
+
 ## Skills
 
-This is my first Go project ever, so it served as a good introduction to many
-things in the Go language and standard library:
+This project helped me learn a lot about Go's standard library:
 
 - Handling command-line arguments
 - File I/O
