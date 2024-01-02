@@ -7,8 +7,6 @@ tags = ['Go', 'CLI']
 images = ['/img/gopen.png']
 +++
 
-Source code: <https://github.com/wipdev-tech/gopen>
-
 The premise of this command-line utility is to save an editor of choice and a
 list of aliases for your local development projects instead of "polluting" your
 system-level configs (e.g., `.bashrc`). Then, Gopen command will `cd` into that
