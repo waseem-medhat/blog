@@ -37,7 +37,8 @@ aside .links {
 }
 
 aside .links img {
-    height: 40px;
+    margin-top: 5px;
+    height: 30px;
 }
 
 .bmc-container {
@@ -260,7 +261,7 @@ blockquote * {
     }
 
     aside .links img {
-        height: 30px;
+        height: 25px;
         max-width: 30px
     }
 

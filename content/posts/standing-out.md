@@ -3,7 +3,7 @@ title = 'Standing Out'
 subtitle = 'A Personal Perspective'
 date = 2024-01-02T18:16:53+02:00
 categories = ['Blog']
-tags = ['Learning']
+tags = ['Learning', 'Jobs']
 images = ['/img/burnthewitch.png']
 +++
 
