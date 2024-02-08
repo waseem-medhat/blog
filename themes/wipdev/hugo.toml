@@ -18,6 +18,11 @@ pageRef = '/categories/blog'
 weight = 20
 
 [[menus.main]]
+name = 'Tutorials'
+pageRef = '/categories/tutorials'
+weight = 22
+
+[[menus.main]]
 name = 'Series'
 pageRef = '/series'
 weight = 25
