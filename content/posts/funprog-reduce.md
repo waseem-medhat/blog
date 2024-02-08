@@ -18,7 +18,7 @@ follow a similar structure.
 
 (Image source: https://iamit.in/blog/Higher-order-functions-in-Python-sorted-map-reduce-filter/)
 
-# What is `reduce`?
+## What is `reduce`?
 
 `reduce` is quite an interesting function. It is sometimes known in other
 languages as `fold`. Like `map` it takes as input a function and a collection
@@ -38,7 +38,7 @@ input function. So, let me describe its behavior and how `reduce` uses it:
 Unlike `map`, I believe it is hard to grasp from an abstract point of view
 without examples, so I will get to that right away.
 
-# How to implement it in R?
+## How to implement it in R?
 
 Let's start with a simple example. But before starting, I need to point out
 that the function's name is `Reduce()` with a capital R.
@@ -72,7 +72,7 @@ which means you are using this
 [infix operator](https://en.wikipedia.org/wiki/Infix_notation) as a function
 to be passed (e.g. as an argument to `Reduce()`).
 
-# Practical example
+## Practical example
 
 The previous example was a little bit silly, although you have to get silly
 sometimes to introduce new concepts based on what you already know and are
@@ -105,7 +105,7 @@ What I want to do is basically insert the data frame `to_insert` between row
 2 and row 3 of the data frame `d`. There are two main things that need to be
 done to get a `Reduce()` algorithm ready.
 
-## Make a list out of the data frame
+### Make a list out of the data frame
 
 `Reduce()` need a collection to iterate (and accumulate) over. In this case, we need to build a "collection of rows". This is easily done with the function `split()`.
 
@@ -132,7 +132,7 @@ d_split
 
 That takes care of one argument.
 
-## Build the accumulating function
+### Build the accumulating function
 
 The accumulation in the previous example was done by addition. But in this
 example, accumulation is actually row-binding. So, the accumulator will be a
@@ -152,7 +152,7 @@ fn <- function(acc, row) {
 }
 ```
 
-## Putting it together
+### Putting it together
 
 The final step is merely calling `Reduce()` with the pieces we built.
 
