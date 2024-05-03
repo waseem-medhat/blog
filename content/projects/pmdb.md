@@ -1,7 +1,10 @@
 +++
-title = 'PMDb - Personal Movie Database'
+title = 'PMDb'
+subtitle = 'Personal Movie Database'
 date = 2024-05-03T16:09:50+03:00
-draft = true
+categories = ['Projects']
+tags = ['Go', 'Full-stack']
+images = ['/img/pmdb.png']
 +++
 
 This is a project that helped me put together everything I've learned at [Boot.dev](https://www.boot.dev/), discover new things about how the web works, uncover new patterns in Go application design, and try out a new tech stack that is relatively hot right now: Turso, Tailwind, Templ, and HTMX.
@@ -22,7 +25,7 @@ The basic functionality took off, then I added more features until the simple fl
 
 This diagram shows a simplified representation of the architecture.
 
-![chart](https://camo.githubusercontent.com/a4cd75c00687c2f96b5360a8d9aaa1c2881db9076375578136ebe587c10e6ea3/68747470733a2f2f692e696d6775722e636f6d2f43724d474d36482e706e67 align="left")
+![chart](https://i.imgur.com/CrMGM6H.png)
 
 The core of it is a number of services, where each service is defined in its own Go package. A "service" in this context defines routing, handlers, and HTML templates for a related group of pages. For example, the `reviews` package defines routes for viewing the review feed and CRUD operations for a specific review. It also includes the HTML templates needed for rendering these pages.
 
