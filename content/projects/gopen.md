@@ -12,7 +12,7 @@ list of aliases for your local development projects instead of "polluting" your
 system-level configs (e.g., `.bashrc`). Then, Gopen command will `cd` into that
 folder and open your editor of choice.
 
-[Check the project's GitHub repo](https://github.com/wipdev-tech/gopen) for the
+[Check the project's GitHub repo](https://github.com/waseem-medhat/gopen) for the
 source code, pre-built binaries, and any relevant documentation. The rest of
 this article will be more of a blog-like walk-through with my thought process
 and learnings from the project.
@@ -57,7 +57,7 @@ Because I thought the tool may be interesting for other people to use, I paid
 as much attention as possible to the GitHub repo. I used the `README.md` to
 provide clear documentation on how to install and use Gopen. Pre-compiled
 binaries (for Linux, Windows, and MacOS) are also available in the
-[releases](https://github.com/wipdev-tech/gopen/releases) page for direct
+[releases](https://github.com/waseem-medhat/gopen/releases) page for direct
 download and use.
 
 I shared the repo in Discord servers to ask for feedback, and thankfully, it

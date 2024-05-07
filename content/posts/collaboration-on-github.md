@@ -54,7 +54,7 @@ These are the general steps that we will discuss in some detail in the next sect
 
 ## Demonstration
 
-I have created a [dummy repo](https://github.com/wipdev-tech/hello-world) to demonstrate the process on. The repo is created and owned by my account ([wipdev-tech](https://github.com/wipdev-tech), *the maintainer*), but the changes and the pull request will be submitted by a separate account ([wipdev-collaborator](https://github.com/wipdev-collaborator), *the collaborator*) to show the process from both perspectives.
+I have created a [dummy repo](https://github.com/waseem-medhat/hello-world) to demonstrate the process on. The repo is created and owned by my account ([waseem-medhat](https://github.com/waseem-medhat), *the maintainer*), but the changes and the pull request will be submitted by a separate account ([wipdev-collaborator](https://github.com/wipdev-collaborator), *the collaborator*) to show the process from both perspectives.
 
 So, the story is that the maintainer started a repo with a simple `README.md`, but it has some typos. The collaborator wants to correct these typos for the maintainer, and the whole process of doing that is shown below step-by-step.
 
@@ -97,7 +97,7 @@ After all the steps above, the fork's page looks like this. When no further comm
 
 Changes to your fork will remain local to your fork until you submit a *pull request*, which is a request for the maintainer to pull your new changes into the upstream (maintainer's) repo.
 
-So, the collaborator proceeds to the PR page, captured below. Notice that the base now is the `main` branch of `wipdev-tech/hello-world` which is the upstream repo. Now, the collaborator can take a final look at the diff at the end of the page, write a comment to the maintainer if necessary, and finally creates the PR.
+So, the collaborator proceeds to the PR page, captured below. Notice that the base now is the `main` branch of `waseem-medhat/hello-world` which is the upstream repo. Now, the collaborator can take a final look at the diff at the end of the page, write a comment to the maintainer if necessary, and finally creates the PR.
 
 If you were following along and submitted a PR in some repo, then I congratulate you for making your first contribution to OSS!
 

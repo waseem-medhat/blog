@@ -6,7 +6,7 @@ draft = false
 
 ## About Me
 
-I'm Waseem! I write code at [https://github.com/wipdev-tech](https://github.com/wipdev-tech)
+I'm Waseem! I write code at <https://github.com/waseem-medhat>
 
 My education background was in pharmacy, but I always found myself more into
 math and computers than the typical pharmaceutical sciences. I discovered that

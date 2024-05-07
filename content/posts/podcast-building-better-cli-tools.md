@@ -18,7 +18,7 @@ Prime mentioned that he wrote code for a game that produced a stack overflow, an
 
 This part is hugely interesting for me. Especially when they said that the entry point (or top-level) part of the code should be declarative. I find doing that makes me happy with my code from a stylistic or organizational aspect. But then Prime said that it makes the program easier to extend, which I never got to think about given my limited experience.
 
-At the time of writing this, the only personal project I grew to completion was [Gopen](https://github.com/wipdev-tech/gopen), a CLI that quick-starts coding projects by configuring a default editor and some directory aliases. I started coding everything in one file and then kept refactoring as the code grew until I reached a somewhat organized structure similar to what's described above with a "main" entry point that has a `switch` statement that checks what sub-command is given and runs a "handler function" accordingly. That entry point is the most simple and declarative part of my project
+At the time of writing this, the only personal project I grew to completion was [Gopen](https://github.com/waseem-medhat/gopen), a CLI that quick-starts coding projects by configuring a default editor and some directory aliases. I started coding everything in one file and then kept refactoring as the code grew until I reached a somewhat organized structure similar to what's described above with a "main" entry point that has a `switch` statement that checks what sub-command is given and runs a "handler function" accordingly. That entry point is the most simple and declarative part of my project
 
 ## Inheritance and Footguns
 
@@ -48,7 +48,7 @@ This is not only the topic of episode's title but also where a lot of goodies ha
 
 ### CLIs as Portfolio Projects
 
-First, Lane said that CLI tools are great portfolio projects for backend devs because they are much more interesting than a typical, random REST API. Also, CLIs are more likely to get picked up by other devs on GitHub. This exactly happened to me with [Gopen](https://github.com/wipdev-tech/gopen). I didn't imagine this would happen, but one fellow Go dev liked it and started improving it.
+First, Lane said that CLI tools are great portfolio projects for backend devs because they are much more interesting than a typical, random REST API. Also, CLIs are more likely to get picked up by other devs on GitHub. This exactly happened to me with [Gopen](https://github.com/waseem-medhat/gopen). I didn't imagine this would happen, but one fellow Go dev liked it and started improving it.
 
 ### Solving Develoeprs' Problems
 
