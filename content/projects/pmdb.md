@@ -11,7 +11,7 @@ This is a project that helped me put together everything I've learned at [Boot.d
 
 So, allow me to walk you through the development of PMDb!
 
-## Background
+## Description
 
 Building this project came from a desire to put my back-end skills to the test, string together the technologies I'm interested in trying, and built a connected whole. Thanks to services like Turso and Render, I could even take that idea to its maximum and make the whole project deployed live. (You can check the [live deployment](https://pmdb.onrender.com/) but due to Render's free tier it might take ~20 seconds to load.)
 
@@ -51,22 +51,14 @@ Templ is a step up from Go's standard library templates which has type safety, a
 
 ## Skills
 
-* HTTP server (routing, handlers, middleware)
-    
-* HTML templates (Templ)
-    
-* Authentication
-    
-* Calling 3rd-party APIs
-    
-* Concurrency with goroutines
-    
-* HTTP cookies
-    
-* Service-based application design
-    
-* Dependency injection
-    
-* Automation with GNU Make
-    
-* UI interactivity (HTMX)
+- HTTP server (routing, handlers, middleware)
+- HTML templates (Templ)
+- Authentication
+- Calling 3rd-party APIs
+- Concurrency with goroutines
+- HTTP cookies
+- SQL
+- Service-based application design
+- Dependency injection
+- Automation with GNU Make
+- UI interactivity (HTMX)
