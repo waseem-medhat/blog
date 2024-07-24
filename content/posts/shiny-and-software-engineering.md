@@ -14,7 +14,7 @@ I contemplated this question since I started learning Shiny, and here I will
 talk about the idea that I have in mind to answer this question. The title
 kind of gives it away, but it still deserves a more detailed explanation.
 
-# My Shiny journey so far
+## My Shiny journey so far
 
 At that time I started my Shiny journey, I already was comfortable writing R
 code in both base and tidyverse "dialects". But then, Shiny felt like a
@@ -28,7 +28,7 @@ feel there are better ways to write Shiny code. I know there are always more
 tricks to discover no matter what kind of code I am writing. But this feeling
 is always the strongest when I am making Shiny apps. So, why is that?
 
-# We don't do software engineering
+## We don't do software engineering
 
 If I were to mention a single reason why Shiny is different or more
 challenging, it is that Shiny is not just _programming_ in general, but also
@@ -52,7 +52,7 @@ quickly. Try to put everything in a single `app.R` script and you will
 easily find yourself drowning in hundreds of lines of code (assuming, of
 course, you are not making a hello-world kind of app).
 
-# What I do about it
+## What I do about it
 
 Well, the canonical advice for any coding domain is to keep building stuff,
 learn by doing, make mistakes and learn from them, etc. So I am currently

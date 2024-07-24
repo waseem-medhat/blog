@@ -13,7 +13,7 @@ I made a similar one in R to automate a simple sequence of Git commands. This
 post will also be quite similar in structure to that other post with the Python
 script.
 
-# Context
+## Context
 
 This blog is made with [Hugo](https://gohugo.io/), and posts are written in
 Markdown format. The whole site is basically a Git repository that gets pushed
@@ -33,7 +33,7 @@ from the command line like this:
 
 Now, I will show the code that does a simple functionality in R.
 
-# The code
+## The code
 
 ```r
 #! /usr/bin/Rscript
@@ -72,7 +72,7 @@ The extra caveat in R is that (at least in Unix-like systems) the command `R` is
 not the one to use to run scripts from the command line. It's `Rscript`, which
 you should see in the "shebang" line at the top of the script.
 
-## Assumptions
+### Assumptions
 
 Just like the Python script, this one works on a couple of assumptions that
 might make it a bit less useful for other programmers:
@@ -81,7 +81,7 @@ might make it a bit less useful for other programmers:
 - It commits all files (which is almost always one in my case).
 - It doesn't care about branches (I commit to and push the master branch).
 
-# Repos
+## Repos
 
 You can already see that the code is not too big, and I already pasted it here
 for reading convenience. I do have it on GitHub, though:

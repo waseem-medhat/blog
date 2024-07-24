@@ -10,7 +10,7 @@ DisableComments: false
 Programmers are lazy! This is why I wrote a Python script to write one
 command instead of three in my Git workflow.
 
-# Context
+## Context
 
 This website is made with the static site generator
 [Hugo](https://gohugo.io/). Once the layout and theme of the site are chosen,
@@ -28,7 +28,7 @@ It is a repetitive task, and it is exactly the same except for the commit
 message. Sounds like a perfect candidate for an automation script! (Also, a
 fun Python exercise.)
 
-# The code
+## The code
 
 Here's the whole script:
 
@@ -75,7 +75,7 @@ run the Git commands, and takes the commit message as an argument:
 ./the_script.py "my commit message"
 ```
 
-## Guards
+### Guards
 
 I have put in some defensive code to avoid crashes or bad commits:
 
@@ -85,7 +85,7 @@ I have put in some defensive code to avoid crashes or bad commits:
   way the scripts prints a simple message instead of a Python traceback.
 - Similar behavior with pushing.
 
-## Assumptions
+### Assumptions
 
 The script is far from perfect and, like I said, more can be done. But it
 works for my specific use case:
@@ -94,7 +94,7 @@ works for my specific use case:
 - It commits all files (which is almost always one in my case).
 - It doesn't care about branches (I commit to and push the master branch).
 
-# Repos
+## Repos
 
 I have this script, and
 [a similar one written in R](/post/automating-git-with-r/) on GitHub:

@@ -13,7 +13,7 @@ always heard about text analysis or natural language processing (NLP) for quite
 some time, but I never learned anything about it. So, it is about time I got
 started...
 
-# First resource
+## First resource
 
 Since I mostly code in R, it was a natural choice to use it as a platform for my
 learning. The book
@@ -40,12 +40,12 @@ chapters that introduced the following topics:
 
 - **Network/graph** visualization to explore relationships between words.
 
-# Some output
+## Some output
 
 Let me share some of the nice analysis results that I made. They use almost the
 same code from the book, with a few visual tweaks here and there.
 
-## Sentiment analysis
+### Sentiment analysis
 
 ![sentiment](/post/first-steps-with-text-analysis_files/sentiment.png)
 
@@ -58,7 +58,7 @@ Note that in this basic example, negation is not accounted for. In other words,
 something like "not good" still counts as a positive sentiment because "good"
 does.
 
-## Bigram network
+### Bigram network
 
 ![network](/post/first-steps-with-text-analysis_files/network.png)
 
@@ -69,7 +69,7 @@ common co-occurrences between pairs of words (bigrams).
 Unsurprisingly, most bigrams are either first and last names or a single name
 associated with a title like "miss", "dr", or "captain".
 
-## Zipf's law
+### Zipf's law
 
 ![zipf](/post/first-steps-with-text-analysis_files/zipf.png)
 
@@ -86,7 +86,7 @@ P.S. It reminded me of a Vsauce video...
 
 {{< youtube fCn8zs912OE >}}
 
-# Reflection and goals
+## Reflection and goals
 
 I was able to pick up the basics of text analysis using these few chapters. I
 find it just as interesting as any other data analytic topic. The obvious next

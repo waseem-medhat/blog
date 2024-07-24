@@ -18,7 +18,7 @@ Python world is richer with educational resources.
 In this post, I will share some of my thoughts on different parts of the
 learning experience.
 
-# First resource (not really)
+## First resource (not really)
 
 Just as I started learning on R with a [book](https://www.tidytextmining.com/),
 I am did the same with Python with [The NLTK book](http://www.nltk.org/book/) by
@@ -43,7 +43,7 @@ experience of both resources.
   objects, which means that most of the processing algorithms are written with
   stuff from the standard library. (More on that later.)
 
-# Jupyter Notebooks
+## Jupyter Notebooks
 
 I chose to code along the book and solve its exercises in Jupyter Notebooks. (I
 have them hosted on [GitHub](https://github.com/waseem-medhat/nltk_book)). They
@@ -58,7 +58,7 @@ exploratory work. There is also this little gripe I have about people publishing
 notebooks on GitHub with absolutely no Markdown content or plots. How different
 is it from a simple `.py` script now?
 
-# Data Structures and Algorithms 
+## Data Structures and Algorithms 
 
 It came as a (pleasant) surprise that I learned many things in Python that are
 not specific to NLTK or text analysis. I had practice with a lot of the
@@ -80,7 +80,7 @@ elegant way to make a list with iteration.
 
 ![algorithm](/post/text-analysis-phase-2-python_files/cmu.png)
 
-# Application
+## Application
 
 Exercises in the NLTK book included some relatively practical text analysis
 questions. One of them was Zipf's law in which I created a plot similar to the

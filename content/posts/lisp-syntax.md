@@ -16,7 +16,7 @@ the strange syntax of Lisp (on which Racket is based).
 
 (Image source: https://xkcd.com/297/)
 
-# Lisp? Racket?
+## Lisp? Racket?
 
 I see that in a world full of Python and JavaScript, Racket and other Lisp
 "dialects" are kind of obscure nowadays.
@@ -90,14 +90,14 @@ their applications in R.
   (map (lambda (x) (string-append x suffix)) xs))
 ```
 
-# Why the syntax is interesting
+## Why the syntax is interesting
 
 Having parentheses for everything makes the syntax initially confusing. There
 are no (infix) operators or any other forms of special syntax that make
 pieces of code more or less distinguishable. But there is actually a couple
 of benefits to that syntax.
 
-## It is minimal
+### It is minimal
 
 I am going to paraphrase the course instructor, Dan Grossman, here: the
 syntax is so simple it can fit on one slide. Instead of having special syntax
@@ -105,7 +105,7 @@ for every construct (e.g. variable/function definitions, if/else statements,
 function calls, etc.), Racket has most of its constructs as functions or
 special forms that have almost identical syntax.
 
-## It is unambiguous
+### It is unambiguous
 
 In the arithmetic code written earlier, you need to remember how the
 operations are ordered to code it correctly. A lot of syntax rules in

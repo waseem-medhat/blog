@@ -13,13 +13,13 @@ made by Cole Nussbaumer Knaflic (see [this video](https://youtu.be/X79o46W5plI))
 and my effort lies in reproducing that presentation in a web-based form to
 practice (and demonstrate) my skills with these technologies.
 
-# Final presentation
+## Final presentation
 
 Here is an animated GIF showing all the slides.
 
 ![vis_slides](https://i.imgur.com/wp4Nmld.gif)
 
-# Sequence
+## Sequence
 
 First of all, the power of presenting data visualizations in multiple slides
 lies in its sequential nature. It enforces the storytelling aspect of your
@@ -27,7 +27,7 @@ vis. Instead of presenting a single chart and using it to explain everything,
 you can create a sequence of copies with slight modifications. Then, you tell
 the story once piece at a time.
 
-# Using color to shift focus
+## Using color to shift focus
 
 ![color focus](https://i.imgur.com/Z4IMqSu.png)
 
@@ -38,7 +38,7 @@ some information about products C, D, and E, then the "accent" blue color should
 be given to the lines of those products while other elements take the gray color
 to make them less demanding of the viewer's attention.
 
-# Explanatory annotations
+## Explanatory annotations
 
 ![explanatory annotations](https://i.imgur.com/Ura9oZF.png)
 
@@ -55,7 +55,7 @@ In explanatory visualizations, annotations are usually a good idea to
 emphasize the insights presented by the charts. Also, they can be used with
 color to effectively replace a color legend.
 
-# Technologies
+## Technologies
 
 This is a web-based project, so it relies heavily on JavaScript.
 
