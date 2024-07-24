@@ -11,7 +11,7 @@ There isn't any exact point in time that I could mark as the beginning of the
 path to becoming a web developer. I learned programming on R as I was
 specializing in biostatistics at the time, and gradually over the course of 6-7
 years things went from "orbiting around" web development to making it a direct
-part of skill set and a career goal to have.
+part of my skill set and a career goal to have.
 
 With that said, I am writing this article in an attempt to recap particular
 stages of this journey. This would serve as both a reflection on the past and
@@ -65,7 +65,7 @@ The difference between such workflow and what I was doing before was like night
 and day, to a point where I felt a little bit angry at how people would still
 write HTML in templating engines with wonky (or even nonexistent!)
 auto-formatting or syntax highlighting. Not to mention TypeScript, a language
-that give you types, which improve the completion and catches some potential
+that give you types which help improve the completion and catch some potential
 bugs. How do people not embrace this awesome stuff and keep writing code with
 no types or compile-time guarantees like Python or PHP?
 
@@ -74,9 +74,9 @@ back-end devs were pushing in the opposite direction. Whenever I suggested
 doing something on the client, they were reluctant to agree and did their best
 to keep it all on the server. I was even starting new projects with full-stack
 frameworks like SvelteKit, probably because I was seeking freedom to do more
-with the JS code that I write, and also deploy at will on Vercel which made it
-easy and fast for me to create and update demos without looking for and
-corresponding with someone else to handle that for me.
+with JS and deploy at will on Vercel which made it easy and fast for me to
+create and update demos without looking for and corresponding with someone else
+to handle that for me.
 
 If you wonder why that last part is funny, it is because I actually am no
 longer the JS/TS fanboy that I was anymore. I started experiencing some of the
@@ -136,8 +136,8 @@ Speaking of deployment...
 
 There is an additional missing piece that I intend to cover, and that is the
 cloud and DevOps part. I don't know how much DevOps knowledge is expected from
-back-end developers in the industry, but what I do know is 1) apps are built to
-be shipped, and DevOps is how shipping happens, and 2) from a job-search
+back-end developers in the industry, but what I do know is that apps are built
+to be shipped, and DevOps is how shipping happens. Also, from a job-search
 perspective, AWS and other cloud providers are always listed in the "nice to
 have" sections of the developer job requirements. So, learning some of the
 services offered by one of those cloud providers will improve my knowledge and
@@ -149,7 +149,7 @@ picked AWS. I started learning about some of their popular services like S3,
 EC2, Lambda, etc. as well as some of the basic networking and security stuff
 that works across all these services like VPCs, IAM, etc. Then, I will try
 building projects with AWS in mind and see how I can glue these services
-together to make an app.
+together to make one or more apps.
 
 ## Building Stuff
 
@@ -191,16 +191,16 @@ I couldn't paint a full picture about my past and future as a web dev with the
 previous sections alone. I don't just want to "get good" and find a job, but I
 also want to have fun and try new things in the process. It was curiosity that
 got me to write code in the first place. So, I'm trying my best to find the
-sweet spot between having fun trying new things and excessive tech-hopping that
-might do more harm than good.
+sweet spot of learning new things without excessive tech-hopping that might do
+more harm than good.
 
 I've been mostly writing Go for my past projects and courses, but I did learn
 Clojure before and played with it for two months. As a functional programming
-enthusiast, I recently got a desire to try a new functional language, but at
-the same time I wanted to keep things practical as I want to build full-stack
-apps. I felt Elixir is a good choice for me in the current situation, and the
-primary reason for this is definitely Phoenix. I don't think any functional
-language has a fully featured web framework like Elixir has Phoenix.
+enthusiast, I wanted to try a new functional language, but at the same time I
+wanted to keep things practical as I want to build full-stack apps. I felt
+Elixir is a good choice for me in the current situation, and the primary reason
+for this is definitely Phoenix. I don't think any functional language has a
+fully featured web framework like Elixir has Phoenix.
 
 So, I'm using Phoenix to make the portfolio builder, and it's a fun experience.
 I will also probably use Elixir to write another project that better leverages
@@ -211,9 +211,10 @@ probably be either OCaml or Haskell. We'll see.
 ## Final Notes
 
 So that was my ramble. Probably my longest article yet. But I am glad that I
-was able to contemplate and clarify my progression in web development, even
-though the are probably some missing details here and there. I feel really
+was able to recap and contemplate my progression in web development, even
+though there are probably some missing details here and there. I feel really
 lucky and privileged to discover and enjoy development as a hobby, a craft, and
-a career.
+a career, and I look forward to the future and what I will build for people and
+companies with software.
 
 Thank you for reading!
