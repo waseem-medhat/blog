@@ -16,7 +16,7 @@ part of skill set and a career goal to have.
 With that said, I am writing this article in an attempt to recap particular
 stages of this journey. This would serve as both a reflection on the past and
 some thoughts about the future. I did write similar ideas in earlier articles,
-but this one particular should flesh things out and focus solely on web
+but this one in particular should flesh things out and focus solely on web
 development (unlike previous ones that had statistical programming in the mix).
 
 So, without further ado, here goes my story...
@@ -42,15 +42,14 @@ necessarily highly correlated.
 A while later, I joined a team of mostly back-end developers working on
 projects that are built with actual web frameworks like Laravel and Django. As
 you might expect I handled the UIs that are built with Blade/Django templates.
-I was away of the back-end code most (but not all) of the time, but I did learn
-a number of concepts. In some cases I even helped the back-end developers debug
-some problems.
+I was away from the back-end code most (but not all) of the time, but I did
+learn a number of concepts. In some cases I even helped the back-end developers
+debug some problems.
 
 At this stage, I was at a point where there are lots of concepts that I know
-about, probably enough to make it so easy for me to start writing full-stack
-apps myself and get tangible experience. But at the time, web development was
-still at best a side hustle for me, and I only focused on front-end
-technologies.
+about, probably enough to make it easy for me to start writing full-stack apps
+myself and get tangible experience. But at the time, web development was still
+at best a side hustle for me, and I only focused on front-end technologies.
 
 ## JavaScript
 
