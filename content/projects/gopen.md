@@ -4,7 +4,7 @@ subtitle = 'A simple CLI to quick-start coding projects'
 date = 2023-11-04T14:13:31+02:00
 categories = ['Projects']
 tags = ['Go', 'CLI']
-images = ['/img/newgopen.png']
+images = ['https://i.imgur.com/To9GQkL.png']
 +++
 
 The premise of this command-line utility is to save an editor of choice and a

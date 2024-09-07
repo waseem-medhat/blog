@@ -4,7 +4,7 @@ subtitle = 'Personal Movie Database'
 date = 2024-05-03T16:09:50+03:00
 categories = ['Projects']
 tags = ['Go', 'Full-stack']
-images = ['/img/pmdb.png']
+images = ['https://i.imgur.com/Ug5kbeL.png']
 +++
 
 This is a project that helped me put together everything I've learned at [Boot.dev](https://www.boot.dev/), discover new things about how the web works, uncover new patterns in Go application design, and try out a new tech stack that is relatively hot right now: Turso, Tailwind, Templ, and HTMX.

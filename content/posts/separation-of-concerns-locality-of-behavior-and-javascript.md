@@ -3,7 +3,7 @@ title = 'Separation of Concerns, Locality of Behavior, and Javascript'
 date = 2024-03-27T13:05:23+02:00
 tags = ['JavaScript', 'Frontend', 'Backend', 'Learning']
 categories = ['Blog']
-images = ['/img/serverlessmeme.png']
+images = ['https://i.imgur.com/AzhlZeq.png']
 +++
 
 In this article I will share my personal take on the new full-stack JavaScript frameworks with respect to these two concepts in the title and why they are important factors in my tech preferences.

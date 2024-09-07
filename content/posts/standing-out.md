@@ -4,7 +4,7 @@ subtitle = 'A Personal Perspective'
 date = 2024-01-02T18:16:53+02:00
 categories = ['Blog']
 tags = ['Learning', 'Jobs']
-images = ['/img/burnthewitch.png']
+images = ['https://i.imgur.com/oG2yDFH.png']
 +++
 
 This article is heavily inspired by one of ThePrimeagen's videos named [My Best Decision Professionally](https://www.youtube.com/watch?v=XqpFCuPAEPo&t=243s). The video resonated with me because it made me think about past decisions I took in my job and I feel like I developed a mentality that is very similar to what he described in the video. I won't review everything Prime said there: this will be more of a personal contemplation in light of what he said.
@@ -31,7 +31,7 @@ I don't know exactly how to put it into words, but there is a great advantage in
 
 Calling it "showing off" might make it seem like a bad thing, but I think it isn't really that bad. I'll use a very simple picture to show you why you need to *constantly* show off your work.
 
-![](/img/showoff.jpg)
+![](https://i.imgur.com/8Dh0JiX.jpg)
 
 Not only are your managers mostly unaware of the amount of work you do to get a certain task done, but they also most likely don't care and won't actively try to think about it unless you show it.
 

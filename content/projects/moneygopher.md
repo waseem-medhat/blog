@@ -3,7 +3,7 @@ title = 'MoneyGopher'
 date = 2024-05-08T15:47:27+03:00
 categories = ['Projects']
 tags = ['Go', 'Docker', 'Microservices', 'Backend']
-images = ['/img/moneygopher.png']
+images = ['https://i.imgur.com/7QgDQ42.png']
 +++
 
 [Check the project's GitHub repo](https://github.com/waseem-medhat/moneygopher)

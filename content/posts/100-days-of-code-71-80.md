@@ -5,7 +5,7 @@ draft = false
 categories = ['Blog']
 series = ['100 Days of Code']
 tags = ['Learning', 'Backend', 'Go']
-images = ['/img/blogbmc.png']
+images = ['https://i.imgur.com/dDqcYaO.png']
 +++
 
 ## Summary

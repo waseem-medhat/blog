@@ -5,7 +5,7 @@ draft = false
 tags = ['Learning', 'Jobs']
 categories = ['Blog']
 series = ['Content Reviews']
-images = ['/img/getahead.png']
+images = ['https://i.imgur.com/hEAp4HL.png']
 +++
 
 One of the goodies I recently found on YouTube was this video of [Melkey discussing another video by Web Dev Cody](https://www.youtube.com/watch?v=pfkssO8JT8E). As the title says, it's about how to get ahead of 99% of developers and, personally, I don't think that number is a hyperbole. Given the huge amount of people getting into coding, being smart about how to learn and how to gain experience might as well put you in the 1% that know what they're doing.

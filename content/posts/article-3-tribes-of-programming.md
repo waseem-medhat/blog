@@ -5,7 +5,7 @@ draft = false
 tags = ['Coding', 'Learning']
 categories = ['Blog']
 series = ['Content Reviews']
-images = ['/img/3tribes.png']
+images = ['https://i.imgur.com/vrZNFIh.png']
 +++
 
 This is a review of an [article classifying programmers into 3

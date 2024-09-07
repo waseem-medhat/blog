@@ -4,7 +4,7 @@ date = 2023-12-16T13:31:05+02:00
 tags = ['Learning']
 categories = ['Blog']
 series = ['Content Reviews']
-images = ['/img/dontstudy.png']
+images = ['https://i.imgur.com/OXTTAKR.png']
 +++
 
 From the YouTube channel *bigboxSWE* comes this [very short video](https://www.youtube.com/watch?v=QMbx0dTWJIQ) with a very concise message, but it's a very strong one! It's a reminder that I constantly need and possibly you do too. There isn't much to review here, but there are multiple quotes I'd like to emphasize and contemplate.

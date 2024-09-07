@@ -5,7 +5,7 @@ draft = false
 categories = ['Blog']
 series = ['100 Days of Code']
 tags = ['Learning', 'Backend', 'Go', 'HTMX']
-images = ['/img/go.png']
+images = ['https://i.imgur.com/kdOC1bx.png']
 +++
 
 ## Reflection on the Whole Journey

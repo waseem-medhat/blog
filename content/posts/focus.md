@@ -5,7 +5,7 @@ draft = false
 series = ['Overthinking Development']
 categories = ['Blog']
 tags = ['Learning', 'Clojure', 'Go', 'JavaScript', 'R']
-images = ['/img/focus.jpg']
+images = ['https://i.imgur.com/qYNiCBa.jpg']
 +++
 
 I find myself giving in to distractions from time to time when it comes to

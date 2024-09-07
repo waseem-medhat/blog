@@ -5,7 +5,7 @@ tags = ['Backend', 'Go']
 draft = false
 categories = ['Blog']
 series = ['Content Reviews']
-images = ['/img/onappdesign.png']
+images = ['https://i.imgur.com/w7JiMpm.png']
 +++
 
 I thought it might be a good idea to review this interesting [Go Time podcast episode](https://changelog.com/gotime/102) where Mat Ryer, Peter Bourgon, Kat Zień, and Ben Johnson talk about application design. At the time of writing this, I'm working on a couple of apps in Go which were large enough for me to start worrying about design. So, the topic of this show is something I'm actively invested in.

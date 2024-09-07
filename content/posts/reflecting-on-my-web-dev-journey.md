@@ -4,7 +4,7 @@ date = 2024-07-11T13:54:06+03:00
 draft = false
 categories = ['Blog']
 tags = ['Learning', 'Backend', 'Full-Stack', 'JavaScript', 'Go', 'Elixir', 'AWS']
-images = ['/img/codesymbol.png']
+images = ['https://i.imgur.com/mGDMHbb.png']
 +++
 
 There isn't any exact point in time that I could mark as the beginning of the

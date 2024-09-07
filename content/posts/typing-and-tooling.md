@@ -5,7 +5,7 @@ draft = false
 categories = ['Blog']
 series = ['Clojure vs JavaScript']
 tags = ['Clojure', 'JavaScript', 'TypeScript', 'Go', 'Learning']
-images = ['/img/lsp.png']
+images = ['https://i.imgur.com/SvMEsT7.png']
 +++
 
 These two topics have become very important factors that influence my developer experience when working with a programming language. This is because when you're coding in a certain language, you are buying into its tooling ecosystem one way or another. So, they played a very important role when I was comparing and contrasting Clojure and JavaScript in my head, which I will talk about here.
