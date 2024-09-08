@@ -25,9 +25,9 @@ The following describes the general architecture of the blog. Of course there
 were other small bits of configuration here and there to make everything work
 together but I will mostly be mentioning the high-level stuff:
 
-![Blog architecture](https://i.imgur.com/o84bU2c.png)
+![Blog architecture](https://i.imgur.com/e66wZOp.png)
 
-- The blog content is hosted on a static hosting-enabled S3 bucket.
+- The blog content is stored in a static hosting-enabled S3 bucket.
 - Since S3 doesn't support HTTPS directly, two things needed to be done:
     + Got an SSL certificate from Amazon Certificate Manager (ACM)
     + Set up a CloudFront distribution for the bucket with the SSL certificate
@@ -35,11 +35,14 @@ together but I will mostly be mentioning the high-level stuff:
 the root domain (`overthinking-development.blog`) and the
 `www.overthinking-development.blog` subdomain to point to the created
 CloudFront distribution.
+- For extra consistency, I used a CloudFront function to redirect the `www`
+subdomain to the root one. That way, the URL visible in the browser will always
+be `overthinking-development.blog`.
 
 Overall, nothing was groundbreaking or challenging once I understood the how
 these services and DNS all worked. I did have multiple fights with the DNS,
 though, especially when I was adding CNAME records for the purpose of
-validating my SSL certifcate. After some searching in the official
+validating my SSL certificate. After some searching in the official
 documentation and some StackOverflow posts, I solved the problem I had and
 learned something new about DNS.
 
@@ -49,19 +52,14 @@ having to log into the console and point-and-click my way through.
 
 ## Next Steps
 
-There is not much else to do in a project like this. But one thing I'm thinking
-about is to do a redirect from the `www` subdomain to the root domain instead
-of setting them both in the DNS. As far as I know the only visible change this
-will cause is that URLs in the browser will be consistent, since the final
-result will always be `overthinking-development.blog`. It will also serve as
-some learning and experimentation with CloudFront functions, which I am going
-to use for this purpose.
+There is not much else to do in a project like this in terms of improving its
+architecture. One thing I might do, though, is move on from the console to
+infrastructure-as-code (IaC) tools like Terraform for managing the underlying
+resources.
 
 Also, although I set up the AWS CLI to update the content with a single
-command, a fully automated approach might be done by setting a CD pipeline. I
-did not research the matter yet, but I would guess it could be done by setting
-up a GitHub action with the AWS CLI and the proper configuration and
-credentials.
+command, a fully automated approach might be done by setting up a CD pipeline.
+I did not research the matter yet, but it should be doable with or without IaC.
 
 ## Final Notes
 
