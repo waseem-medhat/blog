@@ -13,7 +13,7 @@ tags = ['Learning', 'Clojure', 'Functional Programming']
 
 With these 10 days passing, I am now done with a full month! I was able to stay at it every day of the 30.
 
-I got a bit more familiar with the Clojure standard library, made [my own separate site](https://wipdev.netlify.app/) with it, and started dabbling with macros, which is the newest thing to me so far. I am getting more and more fascinated with Clojure in terms of its standard library - it lets you do so much with just functions and simple data structures, and you do it in a really concise and elegant way. Also, I am keeping a steady rate of writing articles.
+I got a bit more familiar with the Clojure standard library, made [my own separate site](https://overthinking-development.blog/) with it, and started dabbling with macros, which is the newest thing to me so far. I am getting more and more fascinated with Clojure in terms of its standard library - it lets you do so much with just functions and simple data structures, and you do it in a really concise and elegant way. Also, I am keeping a steady rate of writing articles.
 
 Where am I going with this? I have no idea. Maybe I'll overthink about it in a future blog.
 
@@ -37,11 +37,11 @@ My blog is now almost complete! I successfully migrated the completed blog artic
 
 ## Day 25 / 15 Aug
 
-I completed and published a Clojure vs JS article: [Functional Programming](https://wipdev.netlify.app/posts/functional-programming) and made a near-complete version of my blog.
+I completed and published a Clojure vs JS article: [Functional Programming](/posts/functional-programming) and made a near-complete version of my blog.
 
 ## Day 26 / 16 Aug
 
-Worked more on the blog to make it more presentable in terms of the home page and content listing. It is now hosted at [https://wipdev.netlify.app/](https://wipdev.netlify.app/)
+Worked more on the blog to make it more presentable in terms of the home page and content listing. It is now hosted at [https://overthinking-development.blog/](https://overthinking-development.blog/)
 
 ## Day 27 / 17 Aug
 
@@ -53,7 +53,7 @@ I started writing a new blog article. Then, I discovered [Exercism](https://exer
 
 ## Day 29 / 19 Aug
 
-Completed and published [Collaboration on GitHub: a Practical Intro](https://wipdev.netlify.app/posts/collaboration-on-github). Also, I did some problems in Exercism.
+Completed and published [Collaboration on GitHub: a Practical Intro](/posts/collaboration-on-github). Also, I did some problems in Exercism.
 
 ## Day 30 / 20 Aug
 

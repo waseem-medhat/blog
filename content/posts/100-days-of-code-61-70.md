@@ -16,7 +16,7 @@ There are some significant steps I took in these 10 days:
     
 * Switched to learning Go instead of Clojure
     
-* Ported my blog to Hugo (still at [https://wipdev.netlify.app/](https://wipdev.netlify.app/))
+* Ported my blog to Hugo (still at [https://overthinking-development.blog/](https://overthinking-development.blog/))
     
 
 I also published one post: [Developer Philosophies](/posts/developer-philosophies)
@@ -82,6 +82,6 @@ I also published one post: [Developer Philosophies](/posts/developer-philosophie
 
 ## Day 70 / Sep 29
 
-* Adjusted the metadata and CSS for my Hugo blog and deployed it at [https://wipdev.netlify.app/](https://wipdev.netlify.app/). There is still some work to do.
+* Adjusted the metadata and CSS for my Hugo blog and deployed it at [https://overthinking-development.blog/](https://overthinking-development.blog/). There is still some work to do.
     
 * Published [Developer Philosophies](/posts/developer-philosophies)

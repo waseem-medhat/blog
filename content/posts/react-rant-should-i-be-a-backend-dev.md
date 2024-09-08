@@ -24,7 +24,7 @@ I'm not the only or the first one to complain about React. With all the framewor
 
 ### Libraries for Everything
 
-I have a serious [dependencyphobia](https://wipdev.netlify.app/posts/dependencyphobia), and I can't fight it anymore. I actively strive to use as few libraries as possible in my code. React works the exact opposite way. It's hard to try to do something in React without one or more `npm install`s. It's even recommended to use libraries instead of standard web stuff: React Query instead of Fetch, Formik instead of HTML forms, etc.
+I have a serious [dependencyphobia](/posts/dependencyphobia), and I can't fight it anymore. I actively strive to use as few libraries as possible in my code. React works the exact opposite way. It's hard to try to do something in React without one or more `npm install`s. It's even recommended to use libraries instead of standard web stuff: React Query instead of Fetch, Formik instead of HTML forms, etc.
 
 There's an icky feeling that constantly accompanies me as I learn React and end up with a library recommendation instead of learning about the actual web APIs on MDN. I'm sure the libraries will probably be easier to use, but I don't want to be learning library-specific workflows all the time. If you develop only in React for so many years, chances are you're good *only* at React and React libraries, not JavaScript, not the web. That's simply not something I aspire to be.
 

@@ -63,4 +63,4 @@ So, I hope this gave you a little food for thought. Thanks for reading!
 
 ---
 
-[Cover image source](https://www.reddit.com/r/radiohead/comments/4hpiqt/i_made_a_burn_the_witch_wallpaper/?rdt=54463) (that's not the first time I use a [Radiohead-inspired cover](https://wipdev.netlify.app/posts/pragmatism-vs-idealism/))
+[Cover image source](https://www.reddit.com/r/radiohead/comments/4hpiqt/i_made_a_burn_the_witch_wallpaper/?rdt=54463) (that's not the first time I use a [Radiohead-inspired cover](/posts/pragmatism-vs-idealism/))

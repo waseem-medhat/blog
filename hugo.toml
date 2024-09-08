@@ -1,4 +1,4 @@
-baseURL = 'https://wipdev.netlify.app/'
+baseURL = 'https://overthinking-development.blog/'
 languageCode = 'en-us'
 title = 'wipdevBlog'
 theme = 'wipdev'

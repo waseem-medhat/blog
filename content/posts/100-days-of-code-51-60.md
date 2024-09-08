@@ -13,9 +13,9 @@ tags = ['Learning', 'Clojure', 'Functional Programming']
 
 Nothing super fancy. More reading. More problem-solving. There are two published articles too:
 
-* [React Rant (+ Should I Be a Backend Dev?)](https://wipdev.netlify.app/posts/react-rant-should-i-be-a-backend-dev)
+* [React Rant (+ Should I Be a Backend Dev?)](/posts/react-rant-should-i-be-a-backend-dev)
     
-* [Two Months of Clojure](https://wipdev.hashnode.dev/two-months-of-clojure)
+* [Two Months of Clojure](/posts/two-months-of-clojure)
     
 
 ## Day 51 / 10 Sep
@@ -64,7 +64,7 @@ Nothing super fancy. More reading. More problem-solving. There are two published
 
 * Solved the problem that got me stuck the day before, then a couple more
     
-* Published an article: [React Rant (+ Should I Be a Backend Dev?)](https://wipdev.netlify.app/posts/react-rant-should-i-be-a-backend-dev)
+* Published an article: [React Rant (+ Should I Be a Backend Dev?)](/posts/react-rant-should-i-be-a-backend-dev)
     
 
 ## Day 58 / 17 Sep
@@ -81,4 +81,4 @@ Nothing super fancy. More reading. More problem-solving. There are two published
 
 ## Day 60 / 19 Sep
 
-* Published [Two Months of Clojure](https://wipdev.hashnode.dev/two-months-of-clojure)
+* Published [Two Months of Clojure](/posts/two-months-of-clojure)

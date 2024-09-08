@@ -14,9 +14,9 @@ These 10 days were surely productive. Aside from continuing the Boot.dev grind a
 
 * PR merge in the [learnbuildteach.com](http://learnbuildteach.com/) website reop - my first contribution to open source!
     
-* Some visual improvements to [my blog](https://wipdev.netlify.app/).
+* Some visual improvements to [my blog](https://overthinking-development.blog/).
     
-* Published 1 article: [Focus (or Lack Thereof)](https://wipdev.netlify.app/posts/focus/)
+* Published 1 article: [Focus (or Lack Thereof)](/posts/focus/)
     
 
 ## Day 81 / Oct 10
@@ -85,7 +85,7 @@ These 10 days were surely productive. Aside from continuing the Boot.dev grind a
 
 * Finished redoing all the sorting algorithms in Boot.dev
     
-* Published [Focus (or Lack Thereof)](https://wipdev.netlify.app/posts/focus/)
+* Published [Focus (or Lack Thereof)](/posts/focus/)
     
 
 ## Day 90 / Oct 19

@@ -12,8 +12,8 @@ This is a review of an [article classifying programmers into 3
 archetypes](https://josephg.com/blog/3-tribes/) by Joseph Gentle. It is one of
 the best articles I read recently, and potentially an all-time favorite. I had
 always thought about this and even [wrote about it a little
-bit](https://wipdev.hashnode.dev/pragmatism-vs-idealism) (actually [more than
-once](https://wipdev.netlify.app/posts/the-two-types-of-programmers/)), but I
+bit](/posts/pragmatism-vs-idealism) (actually [more than
+once](/posts/the-two-types-of-programmers/)), but I
 think this article has a better way of fleshing out this concept.
 
 So, let's get into it. But first...
@@ -61,7 +61,7 @@ want to seriously shift my career into software engineering is that it can feel
 very close to maths at times while still being grounded in reality and not too
 abstract or theoretical. The "mathiness" of code is especially true in
 functional programming, and I wrote an [article about my fondness of
-it](https://wipdev.hashnode.dev/why-i-like-functional-programming). FP in
+it](/posts/why-i-like-functional-programming). FP in
 general, and functional languages in particular, combine a lot of theoretical
 concepts to produce an elegant way of solving real world problems.
 

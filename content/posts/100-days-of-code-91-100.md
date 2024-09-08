@@ -94,7 +94,7 @@ Looking forward to the future!
     
 * Did a little work on the LBT website
     
-* Published [Typing and Tooling](https://wipdev.netlify.app/posts/typing-and-tooling/)
+* Published [Typing and Tooling](/posts/typing-and-tooling/)
     
 
 ## Day 100 / Oct 29

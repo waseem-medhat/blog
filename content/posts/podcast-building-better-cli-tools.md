@@ -74,9 +74,9 @@ This is quite an interesting point raised by Lane. It's that one of the advantag
 
 No need to say much here... Lane, Prime, myself, and a big bunch of other people are now calling everyone to go for statically typed languages. I've written a couple of articles on that matter for you to check out:
 
-* [Typing and Tooling](https://wipdev.netlify.app/posts/typing-and-tooling/)
+* [Typing and Tooling](/posts/typing-and-tooling/)
     
-* [TypeScript: a Beginner's Perspective](https://wipdev.netlify.app/posts/typescript-a-beginners-perspective/)
+* [TypeScript: a Beginner's Perspective](/posts/typescript-a-beginners-perspective/)
     
 
 ## Functional Programming is Hard
