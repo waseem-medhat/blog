@@ -49,23 +49,6 @@ aside .links img {
     gap: 10px;
 }
 
-code, pre {
-    font-family: monospace;
-    margin-bottom: 1rem;
-}
-
-code {
-    padding: 0 5px;
-    background: #ddd;
-}
-
-pre code {
-    padding: 0;
-    line-height: 1.6rem;
-    font-size: 1.1rem;
-    border-radius: 10px;
-}
-
 #logo {
     background: white;
     color: black;

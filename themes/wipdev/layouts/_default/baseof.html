@@ -1,17 +1,23 @@
 <!DOCTYPE html>
-<html lang="{{ or site.Language.LanguageCode site.Language.Lang }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<html lang="{{ or site.Language.LanguageCode site.Language.Lang }}"
+    dir="{{ or site.Language.LanguageDirection `ltr` }}">
+
 <head>
-  {{ partial "head.html" . }}
+    {{ partial "head.html" . }}
 </head>
+
 <body>
-  <header>
-    {{ partial "header.html" . }}
-  </header>
-  <main>
-    {{ block "main" . }}{{ end }}
-  </main>
-  <footer>
-    {{ partial "footer.html" . }}
-  </footer>
+    <header>
+        {{ partial "header.html" . }}
+    </header>
+    <main>
+        {{ block "main" . }}{{ end }}
+        <script src="https://unpkg.com/prismjs@1.29.0/components/prism-core.min.js"></script>
+        <script src="https://unpkg.com/prismjs@1.29.0/plugins/autoloader/prism-autoloader.min.js"></script>
+    </main>
+    <footer>
+        {{ partial "footer.html" . }}
+    </footer>
 </body>
+
 </html>
