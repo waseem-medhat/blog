@@ -174,8 +174,11 @@ document my code.
 
 This concludes my long essay about my newfound excitement for Elixir: a
 language that is functional (but accessible), simple (but powerful),
-well-documented, and overall very fun to work with. I am looking forward to
-using it more, and I plan to develop and maintain multiple open-source projects
-with it, and of course I am gonna rave about it in future articles.
+well-documented, and overall very fun to work with. I am nowhere near mastering
+the language yet, so I have a lot to explore and dive deep into, whether it is
+the language itself or the underlying Erlang VM patterns for concurrency and
+fault-tolerance. But I am looking forward to doing all that, and I plan to
+develop and maintain multiple open-source projects with it, and of course I am
+gonna rave about it in future articles.
 
 Thank you for reading!
