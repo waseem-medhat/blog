@@ -4,7 +4,7 @@ date = 2024-10-23
 draft = false
 categories = ['Blog']
 series = ["I Guess I'm Doing Cloud Now"]
-images = ["https://i.imgur.com/qgsmoVe.png"]
+images = ["https://i.imgur.com/lI2kb4O.png"]
 +++
 
 I'd like to share a couple of ideas based on this project that I built by
