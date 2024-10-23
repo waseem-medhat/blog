@@ -102,8 +102,8 @@ h3 {
 }
 
 p, ul, ol {
-    font-size: 1.3rem;
-    line-height: 2rem;
+    font-size: 1.2rem;
+    line-height: 1.6rem;
     margin-bottom: 0.8rem;
 }
 
@@ -193,6 +193,14 @@ blockquote * {
 }
 
 .post-cover {
+    margin-bottom: 1rem;
+}
+
+table th, table td {
+    padding: 2px 10px;
+}
+
+table {
     margin-bottom: 1rem;
 }
 
