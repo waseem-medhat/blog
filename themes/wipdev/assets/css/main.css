@@ -39,6 +39,8 @@ aside .links {
 aside .links img {
     margin-top: 5px;
     height: 30px;
+    width: auto;
+    border-radius: 0;
 }
 
 .bmc-container {
@@ -226,6 +228,7 @@ table {
         margin-bottom: 10px;
         text-align: left;
         padding-left: 15px;
+        padding-right: 15px;
         padding-top: 15px;
     }
 
