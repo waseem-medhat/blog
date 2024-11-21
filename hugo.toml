@@ -1,4 +1,4 @@
-baseURL = 'https://overthinking-development.blog/'
+baseURL = 'https://overthinking-development.blog'
 languageCode = 'en-us'
 title = 'Overthinking Development'
 theme = 'wipdev'
