@@ -1,6 +1,6 @@
 +++
 title = 'From Dev to Cloud'
-date = 2024-11-14T13:17:27+02:00
+date = 2024-11-21
 categories = ['Blog']
 series = ["I Guess I'm Doing Cloud Now"]
 images = ["https://i.imgur.com/gROB3vB.png"]
