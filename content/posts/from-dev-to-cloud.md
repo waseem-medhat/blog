@@ -35,7 +35,8 @@ would consciously give up on an advantage in the job market.
 - It could be an actual career path to pursue in and of itself, because why
 not?
 
-This should set the stage for the rest of the article.
+So, this is the context with which I started my cloud journey, and it should
+set the stage for what I share in the rest of the article.
 
 ## Initial Bump
 
