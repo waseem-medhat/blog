@@ -7,3 +7,14 @@ theme = 'wipdev'
   category = 'categories'
   series = 'series'
   tag = 'tags'
+
+[services]
+  [services.rss]
+    limit = 42
+
+[outputs]
+  home = ['html', 'rss']
+  section = ['html', 'rss']
+  taxonomy = ['html', 'rss']
+  term = ['html', 'rss']
+

@@ -5,3 +5,4 @@
 {{ partialCached "head/js.html" . }}
 {{ template "_internal/opengraph.html" . }}
 <link href="https://unpkg.com/prismjs@1.29.0/themes/prism-tomorrow.min.css" rel="stylesheet" />
+<link rel="alternate" type="application/rss+xml" href="{{ .Site.BaseURL }}/index.xml" title="{{ .Site.Title }}">
