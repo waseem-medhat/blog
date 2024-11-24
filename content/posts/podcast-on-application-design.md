@@ -1,5 +1,5 @@
 +++
-title = 'Podcast: On application design'
+title = '[Podcast] On application design'
 date = 2024-04-19T20:02:13+02:00
 tags = ['Backend', 'Go']
 draft = false

@@ -1,5 +1,5 @@
 +++
-title = 'Article: 3 Tribes of Programming'
+title = '[Article] 3 Tribes of Programming'
 date = 2024-02-08T00:13:10+02:00
 draft = false
 tags = ['Coding', 'Learning']

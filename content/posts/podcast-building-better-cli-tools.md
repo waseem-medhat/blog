@@ -1,5 +1,5 @@
 +++
-title = 'Podcast: Building Better CLI Tools with ThePrimeagen'
+title = '[Podcast] Building Better CLI Tools with ThePrimeagen'
 date = 2023-11-11T22:11:04+02:00
 draft = false
 tags = ['Backend', 'JavaScript', 'Go']

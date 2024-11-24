@@ -1,5 +1,5 @@
 +++
-title = 'Video: Stop Studying Programming'
+title = '[Video] Stop Studying Programming'
 date = 2023-12-16T13:31:05+02:00
 tags = ['Learning']
 categories = ['Blog']

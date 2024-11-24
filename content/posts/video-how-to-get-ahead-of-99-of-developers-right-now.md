@@ -1,5 +1,5 @@
 +++
-title = 'Video: How To Get Ahead of 99% Of Developers RIGHT NOW'
+title = '[Video] How To Get Ahead of 99% Of Developers RIGHT NOW'
 date = 2024-01-26T19:45:33+02:00
 draft = false
 tags = ['Learning', 'Jobs']
