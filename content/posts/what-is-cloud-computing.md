@@ -1,5 +1,5 @@
 +++
-title = 'What Is Cloud Computing Really?'
+title = 'What Is Cloud Computing, Really?'
 date = 2024-11-24T18:39:34+02:00
 draft = false
 categories = ["Tutorials"]
@@ -7,17 +7,19 @@ tags = ["Cloud", "AWS"]
 images = ["https://i.imgur.com/0iESPcD.png"]
 +++
 
-The cloud became a pretty familiar term in this day and age. However, there is
-a precise definition and a set of criteria that formally define what cloud
+The cloud has become a pretty familiar term in this day and age. However, there
+is a precise definition and a set of criteria that formally define what cloud
 computing really is. So, in this article I briefly go over these criteria,
 which I believe are important to know for people working with the cloud or
-studying to get certified. They may be interesting to know for other people as
-well.
+studying to get certified. They may also be interesting to know for other
+people as well.
 
-The content is directly based on the [NIST definition of cloud
-computing](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
-and includes other topics like service models and deployment models, which I go
-over here as well.
+The content in this article is directly based on the [NIST definition of cloud
+computing](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf),
+although the document includes other topics like service models and deployment
+models. Also, I mention some examples to clarify the concepts, and these are
+based on AWS since this is what I know, but the concepts still apply to any
+cloud provider.
 
 ## Essential Characteristics of Cloud Computing
 
@@ -35,7 +37,7 @@ Let's break this down into two parts:
 
 - The "on-demand" part is apparent from the fact that we can launch most
 resources on AWS like EC2 instances, Lambda functions, S3 buckets, etc. right
-away and as many times as possible.
+away and as many times as possible. We provision resources *on demand*.
 
 - The "self-service" part is about being able to launch those resources without
 the need for submitting requests or any form of human interaction. As long as
@@ -49,7 +51,8 @@ to go.
 > (e.g., mobile phones, tablets, laptops, and workstations)
 
 This one simply means that cloud services like AWS are accessible by any device
-that is connected to the internet.
+that is connected to the internet. Both this point and being on-demand
+self-service make it a trivial task to spin up cloud infrastructure.
 
 ### 3. Resource Pooling
 
@@ -64,23 +67,24 @@ that is connected to the internet.
 
 This can also be broken into two parts:
 
-- Resource pooling and multi-tenancy mean that AWS manages infrastructure
-resources that are available to multiple customers. In other words, multiple
-customers can have isolated AWS resources that actually share the same
-underlying physical infrastructure.
+- Resource pooling and multi-tenancy mean that AWS manages infrastructure that
+is used by multiple customers. In other words, multiple customers can have
+isolated AWS resources that (under the hood) share the same underlying physical
+infrastructure. However, they are logically isolated as far as the customer is
+concerned.
 
 - Location independence in the case of AWS means that when we as customers
-launch AWS resources, we don't know exactly which data center contains these
-deployed resources. However, we interact with AWS at more abstract levels,
-which are regions, availability zones (AZs), and edge locations.
+launch AWS resources, we don't know exactly which server or data center
+contains these deployed resources. However, we interact with AWS at more
+abstract levels like regions and availability zones (AZs).
 
-To put this in an (oversimplified) example, AWS has servers with with huge
-amounts of storage and compute power. On each one of those servers is a way of
-creating smaller virtual machines (VMs). When you launch an EC2 instance of a
-certain type (e.g. t2.micro), you're creating one such VM that runs on one of
-those servers. You can specify the region and AZ in which this VM resides
+To put this in an oversimplified example, AWS has data centers all over the
+world that contain servers with huge amounts of storage and compute power. On
+each one of those servers is a way of creating smaller virtual machines (VMs).
+When you launch an EC2 instance, you're creating one such VM that runs on one
+of those servers. You can specify the region and AZ in which this VM resides
 (e.g., us-east-1a), but that does not inform you exactly which data center has
-your VM running. The lowest level you can manage with EC2 is AZs.
+your VM. The lowest level you can manage as a customer is the AZ level.
 
 ### 4. Rapid Elasticity
 
@@ -94,7 +98,7 @@ resources) according to the current demand. A prime example of this is EC2 and
 auto scaling groups, which can be configured to add or remove EC2 instances
 based on usage. The ability to scale out means that we can ensure higher
 availability for our applications, and the ability to scale in means that we
-don't have unnecessary resources running. This also ties into the next point.
+don't have unnecessary resources running.
 
 ### 5. Measured Service
 
@@ -108,14 +112,18 @@ The main idea of this point is that all forms of resource usage are measured
 from both billing and monitoring perspectives. Most cloud resources follow a
 pay-as-you-go pricing model. Together with elasticity, this eliminates the need
 for over-provisioning and makes costs reflect actual usage. The monitoring and
-reporting capabilities also are useful for logging, compliance, audit trails,
-etc.
+reporting capabilities also are useful for logging, analytics, regulatory
+compliance, audit trails, etc.
 
-## Service Models
+## Conclusion
 
+To recap, for a service to be considered cloud computing it has to satisfy the
+five criteria explained above: on-demand self-service, broad network access,
+resource pooling, rapid elasticity, and measured service. I hope that with this
+brief article you learned something new or refreshed what you already know
+about the what cloud computing really is.
 
-
-![Service models](https://dachou.github.io/assets/20180928-cloud-service-models-20100115.png)
+Thank you for reading!
 
 * * *
 
