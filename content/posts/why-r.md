@@ -8,7 +8,7 @@ DisableComments: false
 ---
 
 Contrary to the majority of R content which is directed towards data science and
-related _business_ domains, this post is in the context of _biostatistics_.  So,
+related _business_ domains, this post is in the context of _biostatistics_. So,
 if you are a biostatistician (working or aspiring) let me explain why I think R
 is a good investment of your time. I don't assume you have any prior knowledge
 about programming, so I will provide some information about it in broad strokes.
@@ -100,24 +100,24 @@ proprietor(s).
 
 A rather unique strength of R is that it is surrounded by a big and active
 community that are passionate about it and helpful to each other and to
-newcomers as well.  R-related questions and answers can be easily found on
+newcomers as well. R-related questions and answers can be easily found on
 [Stack Overflow](https://stackoverflow.com/questions/tagged/r?tab=Frequent), so
 most (if not all) of your errors in your first learning steps have already been
 addressed there. The R community on Twitter and LinkedIn also exchange lots of
 Q&A and tips.
 
-* * *
+---
 
 This is my own perspective of why R is such a great tool for biostatisticians to
 learn and use. I hope you found it informative, and let me end it with a quote:
 
 > "Programs like SPSS are busses, easy to use for the standard things, but very
-> frustrating if you want to do something that is not already preprogrammed.  R
+> frustrating if you want to do something that is not already preprogrammed. R
 > is a 4-wheel drive SUV (though environmentally friendly) with a bike on the
 > back, a kayak on top, good walking and running shoes in the passenger seat,
-> and mountain climbing and spelunking gear in the back.  R can take you
+> and mountain climbing and spelunking gear in the back. R can take you
 > anywhere you want to go if you take time to learn how to use the equipment,
 > but that is going to take longer than learning where the bus stops are in
 > SPSS."
 >
-> --- <cite>Greg Snow</cite>
+> --- Greg Snow

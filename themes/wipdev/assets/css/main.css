@@ -71,19 +71,25 @@ img {
 }
 
 h1 {
-    font-size: 3rem;
+    font-size: 2.5rem;
     margin-bottom: 2rem;
 }
 
 .post-title {
-    line-height: 3rem;
+    line-height: 2.5rem;
     margin-bottom: 0;
 }
 
 .post-subtitle {
     font-weight: 500;
-    font-size: 2rem;
-    margin: 1rem 0;
+    font-size: 1.8rem;
+    margin: 0.3rem 0;
+    border-bottom: none;
+}
+
+.post-subtitle::before,
+.post-subtitle::after {
+    content: none;
 }
 
 .post-date {
@@ -93,15 +99,22 @@ h1 {
 }
 
 h2 {
-    font-size: 2.2rem;
+    font-size: 2rem;
     margin-top: 2rem;
     margin-bottom: 1rem;
+    border-bottom: 1px solid #ccd;
 }
 
 h3 {
     font-size: 1.5rem;
     margin-top: 2rem;
     margin-bottom: 1rem;
+}
+
+h4 {
+    font-size: 1.2rem;
+    margin-top: 0.7rem;
+    margin-bottom: 0.5rem;
 }
 
 p,
@@ -129,7 +142,7 @@ ul ul {
 
 a {
     text-decoration: none;
-    color: #1111b9;
+    color: #2121b5;
 }
 
 a:hover {
@@ -178,7 +191,7 @@ blockquote * {
 
 .home-post-container {
     display: flex;
-    gap: 0 20px;
+    gap: 0 35px;
 }
 
 .home-post {

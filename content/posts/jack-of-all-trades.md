@@ -16,7 +16,7 @@ That's such a great feat to achieve... or is it?
 
 ## The Ideal Skillset
 
-Let me start with what I think is the end goal. I heard this a long time ago, and it still resonates with me to this day, and that is the concept of a *T-shaped skillset*. The idea is to combine the depth of being an expert in one skill with the breadth of having some knowledge in other stuff. It makes a lot of sense to me. Specialists can be too narrow-minded, and generalists aren't "good enough" in any single thing.
+Let me start with what I think is the end goal. I heard this a long time ago, and it still resonates with me to this day, and that is the concept of a _T-shaped skillset_. The idea is to combine the depth of being an expert in one skill with the breadth of having some knowledge in other stuff. It makes a lot of sense to me. Specialists can be too narrow-minded, and generalists aren't "good enough" in any single thing.
 
 ![t-shaped skillset](https://i.imgur.com/FRCqhDU.png)
 
@@ -30,7 +30,7 @@ One of the other discussions I heard on this topic was that generalists might no
 
 In another way of looking at it, one could argue that good leaders have the skill depth in leadership and soft skills, so they are T-shaped after all. For the sake of this discussion, however, I am concerned about technical skills only. Soft skills are important but not my main point of discussion here.
 
-In some situations, it might not need to be a situation of choosing between one or the other. Successful teams have both generalists and specialists, each complementing the other and contributing their part in the T shape. This is a great point to consider when hiring and putting together a team. However, this is not an option when working solo. It's either taking the time to build that T or accepting the tradeoff of picking a side, and that takes us to my personal <s>rant</s> story in this context.
+In some situations, it might not need to be a situation of choosing between one or the other. Successful teams have both generalists and specialists, each complementing the other and contributing their part in the T shape. This is a great point to consider when hiring and putting together a team. However, this is not an option when working solo. It's either taking the time to build that T or accepting the tradeoff of picking a side, and that takes us to my personal _rant_ story in this context.
 
 ## Reflecting on My Journey
 

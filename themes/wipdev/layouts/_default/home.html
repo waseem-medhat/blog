@@ -1,27 +1,25 @@
 {{ define "main" }}
 
-    <h1>Overthinking Development</h1>
+<h1>Overthinking Development</h1>
 
-    <p>This is my personal blog where I... <i>do what the title says</i>.</p>
-    <p>My interests are in web development, functional programming, statistics, data visualization, and (most recently) cloud computing.</p>
+<p>This is my personal blog where I... <i>do what the title says</i>.</p>
+<p>
+    My interests are in web development, functional programming, statistics,
+    data visualization, and (most recently) cloud computing.
+</p>
 
-    <hr>
-
-    <h2>Latest Content</h2>
-    <div class="home-post-container">
-        {{ range first 2 .Site.RegularPages }}
-            <div class="home-post">
-                <a href="{{ .Permalink }}">
-                    <h3>{{ .Title }}</h3>
-                    {{ with index .Params.images 0 }}
-                        <img src="{{ . }}" alt="post-cover">
-                    {{ end }}
-                </a>
-            </div>
-        {{ end }}
+<h2>Latest Content</h2>
+<div class="home-post-container">
+    {{ range first 2 .Site.RegularPages }}
+    <div class="home-post">
+        <a href="{{ .Permalink }}">
+            <h4>{{ .Title }}</h4>
+            {{ with index .Params.images 0 }}
+            <img src="{{ . }}" alt="post-cover" />
+            {{ end }}
+        </a>
     </div>
+    {{ end }}
+</div>
 
-    <hr>
-
-    {{ .Content }}
-{{ end }}
+{{ .Content }} {{ end }}

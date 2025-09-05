@@ -5,7 +5,7 @@ categories = ['Blog']
 images = ["https://i.imgur.com/4LMG6ia.png"]
 +++
 
-The title of this article is ~stolen~ inspired from a [talk by Brian
+The title of this article is ~~stolen~~ inspired from a [talk by Brian
 Cardarella](https://youtu.be/gom6nEvtl3U?) (except the question mark). While I
 won't exactly review the talk itself here, this will be my own spin of what it
 is about: why I find Elixir to be such a great language after working with it
@@ -116,7 +116,7 @@ I went through some burnout due to the constant changes in the JS ecosystem,
 not to mention the frequent flame wars and other drama around it in the
 community, I was looking for a simpler, more stable ecosystem, one that doesn't
 change much over time. I want my language to get out of my way while I dive
-deeper in *concepts* instead of spending most of my time catching up with some
+deeper in _concepts_ instead of spending most of my time catching up with some
 new syntax that introduces a slight variation of the same thing (that or
 battling FOMO if I chose not to catch up).
 
@@ -164,7 +164,7 @@ read start-to-finish like books, and they even have EPUB versions which I did
 load in my Kindle.
 
 It's true that almost everyone would agree that writing documentation is a good
-thing, but it's rare to see *this* level of investment at a language level that
+thing, but it's rare to see _this_ level of investment at a language level that
 grows to be one of the community's core philosophies. So, yes, while
 documentation is by no means something that I'm discovering now, writing Elixir
 and being in touch with its community motivates me to improve my ability to
